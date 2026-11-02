@@ -270,14 +270,14 @@
       "name": "DoorDash promo",
       "type": "credit",
       "value": 10,
-      "frequency": "monthly",
+      "frequency": "quarterly",
       "alignment": "calendar",
       "category": "grocery",
       "inApp": true,
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar month if DashPass was first activated 9/1/2026-12/31/2027 (quarterly if first activated 2/1/2025-8/31/2026), while enrolled in DashPass via the card. Source: DoorDash Chase co-brand terms (help.doordash.com); the United card page does not mention DashPass.",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated 2/1/2025-8/31/2026 (monthly if first activated 9/1/2026-12/31/2027), while enrolled in DashPass via the card. Source: DoorDash Chase co-brand terms (help.doordash.com); the United card page does not mention DashPass.",
       "endDate": "2027-12-31"
     },
     {
