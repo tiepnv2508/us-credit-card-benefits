@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-slate",
+  "name": "Slate",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/balance-transfer-credit-cards/slate",
+  "lastVerified": "2026-11-01",
+  "sources": [
+    "https://creditcards.chase.com/balance-transfer-credit-cards/slate",
+    "https://creditcards.chase.com/all-credit-cards",
+    "https://creditcards.chase.com/visa-credit-cards",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
+  ],
+  "notes": "Balance-transfer card with a 0% intro APR; no rewards program.",
+  "benefits": [
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Activate DashPass by 12/31/2029.",
+      "endDate": "2029-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "6 months of complimentary DashPass when first activated with the card by 12/31/2029, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2029.",
+      "endDate": "2029-12-31"
+    }
+  ]
+}

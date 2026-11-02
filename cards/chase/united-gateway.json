@@ -14,15 +14,16 @@
   "legacyIds": [
     "4071699fe4b21cafb02cf8b2c9c57c86"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
-    "https://www.theexplorercard.com/rewards-cards/gateway-card"
+    "https://www.theexplorercard.com/rewards-cards/gateway-card",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -46,7 +47,8 @@
         "rate": 2,
         "channel": "any"
       }
-    ]
+    ],
+    "notes": "After $10,000 in purchases in a calendar year, earn 6x miles on United fares as a MileagePlus member (8x total with the card 2x); it does not change the card rates listed here."
   },
   "benefits": [
     {
@@ -66,6 +68,70 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Two first-standard checked bag certificates after $10,000 in purchases in a calendar year."
+    },
+    {
+      "id": "inflight-cashback",
+      "name": "25% back on inflight",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25% statement credit on food, beverage and Wi-Fi purchases on United/United Express flights and on premium drinks at United Clubs."
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated 2/1/2025-8/31/2026 (monthly if first activated 9/1/2026-12/31/2027), while enrolled in DashPass via the card. Source: DoorDash Chase co-brand terms; the card page does not mention DashPass.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Source: DoorDash Chase co-brand terms; the United card page does not mention DashPass.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "miles-booking-discount",
+      "name": "10% off flights booked with miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 10000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Save 10% or more on flights booked with miles after spending $10,000 in a calendar year."
     }
   ]
 }

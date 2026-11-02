@@ -14,7 +14,7 @@
   "legacyIds": [
     "57f8a819c3bb4c6aa494016703281f35"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
     "https://www.doctorofcredit.com/chase-sapphire-preferred-adds-100-hotel-credit-3x-gas-tsa-ge-benefit-appletv-more-same-95-fee/"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Purchases covered by the $100 Chase Travel hotel credit earn no points.",
     "rates": [
       {
@@ -153,6 +153,22 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary DashPass when activated with the card (through 12/31/2029)."
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "type": "perk",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary Apple TV for at least 12 months from activation (Chase lists a $180 value); one-time activation on chase.com or the Chase app required by 12/31/2026, primary cardmember only.",
+      "endDate": "2026-12-31"
     }
   ]
 }

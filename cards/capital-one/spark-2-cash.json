@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "capitalone-spark-2-cash",
+  "name": "Spark 2% Cash",
+  "issuer": "CAPITAL_ONE",
+  "network": null,
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 95,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash/",
+  "lastVerified": "2026-11-01",
+  "sources": [
+    "https://www.capitalone.com/small-business/credit-cards/spark-cash/"
+  ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 2,
+    "lastVerified": "2026-11-01",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Business Travel only."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Business Travel only."
+      }
+    ]
+  },
+  "benefits": []
+}

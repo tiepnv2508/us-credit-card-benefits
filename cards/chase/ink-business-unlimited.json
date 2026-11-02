@@ -14,7 +14,7 @@
   "legacyIds": [
     "4a1c1e46f145b76fcc72ebd391fc5766"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
     "https://www.instacart.com/p/chase-ink"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1.5,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "rideshare",

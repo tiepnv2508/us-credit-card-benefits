@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "capitalone-quicksilverone",
+  "name": "QuicksilverOne",
+  "issuer": "CAPITAL_ONE",
+  "network": null,
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 39,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/credit-cards/quicksilverone/",
+  "lastVerified": "2026-11-01",
+  "sources": [
+    "https://www.capitalone.com/credit-cards/quicksilverone/"
+  ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-01",
+    "rates": []
+  },
+  "benefits": []
+}

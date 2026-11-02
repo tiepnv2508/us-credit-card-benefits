@@ -14,14 +14,14 @@
   "legacyIds": [
     "9bd7d14db16dcc106d2eb062b08bf15f"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "hotels",
@@ -37,5 +37,24 @@
       }
     ]
   },
-  "benefits": []
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "annual-fee-refund",
+      "name": "Annual fee refund",
+      "value": 150,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "unlockSpend": {
+        "amount": 150000,
+        "window": "anniversary"
+      },
+      "notes": "$150 statement credit within 2 billing cycles after your anniversary if you spend at least $150,000 in net purchases by the anniversary date."
+    }
+  ]
 }

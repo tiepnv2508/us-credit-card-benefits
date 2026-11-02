@@ -14,16 +14,17 @@
   "legacyIds": [
     "f6c6aa50b533b758df7be5151d805571"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
-    "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
+    "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/hilton-honors-surpass-credit-card/25330-10-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 3,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",

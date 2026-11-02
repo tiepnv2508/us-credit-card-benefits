@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "capitalone-platinum",
+  "name": "Platinum",
+  "issuer": "CAPITAL_ONE",
+  "network": null,
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/credit-cards/platinum/",
+  "lastVerified": "2026-11-01",
+  "sources": [
+    "https://www.capitalone.com/credit-cards/platinum/"
+  ],
+  "benefits": []
+}

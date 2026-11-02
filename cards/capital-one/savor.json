@@ -14,14 +14,14 @@
   "legacyIds": [
     "2d16431e0caee645b420cc3d3255b2ee"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/credit-cards/savor/"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "dining",
@@ -38,13 +38,13 @@
         "category": "entertainment",
         "rate": 3,
         "channel": "any",
-        "note": "Tickets at theaters, live events, parks, zoos etc. Golf, collegiate sports, cable and memberships excluded."
+        "note": "Tickets at theaters, live events, parks, zoos etc. Golf, collegiate sports, cable, digital streaming and memberships excluded."
       },
       {
         "category": "streaming",
         "rate": 3,
         "channel": "any",
-        "note": "Eligible services such as Netflix, Hulu, Disney+. Prime Video, AT&T TV, Verizon FIOS On Demand, audiobooks and fitness excluded."
+        "note": "Popular streaming services; Capital One does not list eligible services on the card page."
       },
       {
         "category": "entertainment",
@@ -66,5 +66,21 @@
       }
     ]
   },
-  "benefits": []
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "hertz-five-star",
+      "name": "Hertz Five Star status",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Enroll in Hertz Gold Plus Rewards status upgrade via the Benefits tab in your Capital One account."
+    }
+  ]
 }

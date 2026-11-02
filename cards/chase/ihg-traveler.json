@@ -14,7 +14,7 @@
   "legacyIds": [
     "2c6c7e215b4a1e791250d1fb48997e02"
   ],
-  "lastVerified": "2026-10-21",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
     "https://www.instacart.com/p/chase-cobrands",
@@ -23,7 +23,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -153,7 +153,37 @@
       },
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Fourth reward night free on a consecutive four-night points stay. No spend needed through December 31, 2026; from 2027 it requires $5,000 in purchases in the calendar year (then applies for the rest of that year)."
+      "notes": "Fourth reward night free on a consecutive four-night points stay. No spend needed through December 31, 2026; from 2027 each calendar year with $5,000+ in purchases unlocks it for the rest of that year and the following calendar year."
+    },
+    {
+      "id": "silver-elite-auto",
+      "name": "Automatic Silver Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Silver Elite status for as long as you are an IHG One Rewards cardmember."
+    },
+    {
+      "id": "annual-enc",
+      "name": "5 Elite Night Credits each year",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5 Elite Night Credits at account opening, then deposited by Feb 1 each calendar year while the account is open. Also 2 ENC per $5,000 spent."
     }
   ]
 }

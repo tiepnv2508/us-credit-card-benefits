@@ -11,11 +11,13 @@
   "discontinued": true,
   "url": "https://creditcards.chase.com/southwest/plus-business-credit-card",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-ecm/cccswa/2026/a600-0059/cards/plus_biz_reflect.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/southwest/plus-business-credit-card",
     "https://media.chase.com/news/chase-southwest-introduce-new-card-benefits",
-    "https://www.southwest.com/customer-enhancements/cardmember-benefits/"
+    "https://www.southwest.com/customer-enhancements/cardmember-benefits/",
+    "https://creditcards.chase.com/all-credit-cards",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "benefits": [
     {
@@ -92,6 +94,110 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "first-checked-bag",
+      "name": "Free first checked bag",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First standard checked bag free for the primary cardmember and up to 8 passengers on the same reservation (Rapid Rewards number on the reservation; Southwest-operated flights)."
+    },
+    {
+      "id": "standard-seat",
+      "name": "Complimentary Standard seat",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Select a Standard seat within 48 hours before departure, when available, for the cardmember and up to 8 passengers on the reservation."
+    },
+    {
+      "id": "inflight-cashback",
+      "name": "25% back on inflight",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25% statement credit on Southwest inflight drink and Wi-Fi purchases made with the card."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
+      "endDate": "2027-12-31"
     }
-  ]
+  ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-01",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+        "note": "Excludes Southwest Cruises, Charters and Cargo."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 5000,
+          "period": "year"
+        },
+        "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 5000,
+          "period": "year"
+        },
+        "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Lyft, in the Lyft app",
+        "endDate": "2027-12-31",
+        "note": "Qualifying Lyft rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
+  "notes": "No longer listed among Chase's current cards (2026-11-01); existing cardmembers keep benefits."
 }

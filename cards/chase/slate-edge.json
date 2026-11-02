@@ -10,9 +10,10 @@
   "afWaivedFirstYear": false,
   "discontinued": false,
   "url": "https://creditcards.chase.com/credit-building-credit-cards/slate/edge",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
-    "https://creditcards.chase.com/credit-building-credit-cards/slate/edge"
+    "https://creditcards.chase.com/credit-building-credit-cards/slate/edge",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "benefits": [
     {
@@ -28,6 +29,22 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "6 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

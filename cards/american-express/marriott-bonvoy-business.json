@@ -14,16 +14,17 @@
   "legacyIds": [
     "1129280627d633940e575deabdaa105f"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.marriott.com/credit-cards/marriott-bonvoy-business-american-express-card.mi",
     "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/",
-    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/marriott-bonvoy-business-american-express-card/45094-9-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",

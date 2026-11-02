@@ -11,7 +11,7 @@
   "discontinued": false,
   "url": "https://www.citi.com/credit-cards/wayfair-credit-cards",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/wayfair-credit-cards/wayfair-credit-cards1_306x192.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.citi.com/credit-cards/wayfair-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
@@ -24,11 +24,11 @@
         "category": "brand",
         "rate": 7,
         "channel": "any",
-        "merchants": "Wayfair's family of brands: websites, apps and stores",
+        "merchants": "Wayfair, Joss & Main, AllModern, Birch Lane, Perigold: sites, apps, stores (no outlets)",
         "note": "5%, not 7%, on purchases using promotional financing."
       }
     ],
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Store card. Paid as Wayfair Rewards."
   },
   "benefits": []

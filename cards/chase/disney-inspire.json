@@ -11,14 +11,14 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney-inspire.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Earns Disney Rewards Dollars, not cash: $1 each, redeemable at Disney U.S. locations or against airline purchases.",
     "rates": [
       {

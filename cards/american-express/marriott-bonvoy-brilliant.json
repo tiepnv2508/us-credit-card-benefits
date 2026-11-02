@@ -14,16 +14,17 @@
   "legacyIds": [
     "4d2115812f09d194440ef99b1a5210cd"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
     "https://www.uscreditcardguide.com/amex-spg-luxury-credit-card/",
-    "https://frequentmiler.com/amex-marriott-bonvoy-brilliant-credit-card-review/"
+    "https://frequentmiler.com/amex-marriott-bonvoy-brilliant-credit-card-review/",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/marriott-bonvoy-brilliant-card/25330-10-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -97,7 +98,7 @@
     },
     {
       "id": "free-night-60k",
-      "name": "$60K spend choice benefit",
+      "name": "Brilliant Earned Choice Award",
       "type": "perk",
       "value": null,
       "frequency": "annual",
@@ -111,7 +112,7 @@
       },
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "After $60,000 in a calendar year: choose a second 85K free night or another Brilliant Earned Choice Award."
+      "notes": "After $60,000 of purchases in a calendar year, choose one: Free Night Award (up to 85K points), Five Nightly Upgrade Awards or a one-time 50K-point deposit. One award per calendar year."
     },
     {
       "id": "platinum-status",

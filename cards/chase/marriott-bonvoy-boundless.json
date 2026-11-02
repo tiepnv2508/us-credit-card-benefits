@@ -14,16 +14,17 @@
   "legacyIds": [
     "6a4a30b866d4d37216b9d586a15ad1cc"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
     "https://upgradedpoints.com/news/chases-marriott-boundless-card-airfare-benefit/",
-    "https://www.instacart.com/p/chase-cobrands"
+    "https://www.instacart.com/p/chase-cobrands",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -92,7 +93,7 @@
         "airline"
       ],
       "matchVerified": false,
-      "notes": "$50 statement credit after $250+ spent directly with airlines in each period: 6/4–12/31/2026 and 1/1–6/30/2027.",
+      "notes": "$50 statement credit after $250+ spent directly with airlines in each period. New cardmembers (applied 6/4-12/31/2026): 6/4-12/31/2026 and 1/1-6/30/2027. Existing cardmembers (by 1/7/2026; one-time activation required): 1/1-6/30/2026 and 7/1-12/31/2026.",
       "endDate": "2027-06-30"
     },
     {
@@ -123,6 +124,70 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "silver-elite-status",
+      "name": "Silver Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Automatic Marriott Bonvoy Silver Elite status each calendar year as a cardmember (initial award within 8 weeks of account opening)."
+    },
+    {
+      "id": "elite-night-credits",
+      "name": "Elite Night Credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits within 60 days of account opening, then on or before March 1 of each subsequent calendar year (primary cardmember; card account open; linked Marriott Bonvoy account). Also 1 Elite Night Credit per $5,000 in purchases, with no limit."
+    },
+    {
+      "id": "gold-elite-spend",
+      "name": "Gold Elite status (spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 35000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Path to Gold Elite status after $35,000 in purchases in a calendar year (Jan 1-Dec 31); allow up to 8 weeks after qualifying. Only one Boundless card per Marriott Bonvoy member."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

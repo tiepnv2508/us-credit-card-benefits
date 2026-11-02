@@ -11,14 +11,14 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise",
   "imageUrl": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-rise/card_freedomRise_V.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1.5,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "rideshare",
@@ -43,8 +43,8 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
-      "endDate": "2027-12-31"
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Page says through 12/31/2029 (activate DashPass by then).",
+      "endDate": "2029-12-31"
     }
   ]
 }

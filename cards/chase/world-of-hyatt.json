@@ -14,15 +14,16 @@
   "legacyIds": [
     "d378a38b56d4c9bd5e1ad184a6ce84f0"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
-    "https://www.instacart.com/p/chase-cobrands"
+    "https://www.instacart.com/p/chase-cobrands",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "New accounts also earn 2X total on 1X purchases for the first 6 months, on up to $15,000 spent.",
     "rates": [
       {
@@ -122,6 +123,52 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "discoverist-status",
+      "name": "Discoverist status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "World of Hyatt Discoverist status for the primary cardmember while the card account is open (applied within 8 weeks of opening)."
+    },
+    {
+      "id": "tier-qualifying-nights",
+      "name": "Tier-qualifying night credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5 tier-qualifying night credits within 8 weeks of account opening, then within 8 weeks of January 1 each calendar year. Also 2 more credits for every $5,000 in purchases."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

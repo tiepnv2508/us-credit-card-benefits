@@ -14,16 +14,17 @@
   "legacyIds": [
     "1e9c3dae029612a7a40adf6144bf43d4"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/delta-skymiles-platinum/45094-9-0"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -147,7 +148,7 @@
         "tsa"
       ],
       "matchVerified": false,
-      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+      "notes": "Up to $120 for Global Entry or up to $85 for TSA PreCheck; one credit every 4 years across both programs per Amex terms. Interval counts from the last credit."
     },
     {
       "id": "companion-certificate",

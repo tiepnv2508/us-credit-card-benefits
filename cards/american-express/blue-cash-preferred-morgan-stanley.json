@@ -14,16 +14,17 @@
   "legacyIds": [
     "b628058009b9f1a24093028750e18112"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
     "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/",
-    "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38"
+    "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/partner/print/personal-card/etrade/morgan-stanley-blue-cash-preferred-card/ep-msbcp-ms-17?print=false"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "groceries",

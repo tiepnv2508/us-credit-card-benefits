@@ -14,18 +14,19 @@
   "legacyIds": [
     "80c6aca49a0e1442d51635c316f4a5ff"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
     "https://www2.theexplorercard.com/business-rewards-cards/club-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
     "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
-    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US",
+    "https://www.instacart.com/p/chase-united"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1.5,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -257,7 +258,38 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated 2/1/2025-8/31/2026 (monthly if first activated 9/1/2026-12/31/2027), while enrolled in DashPass via the card. Source: DoorDash Chase co-brand terms (help.doordash.com); the United card page does not mention DashPass.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "inflight-cashback",
+      "name": "25% back on inflight",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25% statement credit on food, beverage and Wi-Fi purchases on United/United Express flights and on premium drinks at United Clubs."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Source: DoorDash Chase co-brand terms; the United card page does not mention DashPass.",
       "endDate": "2027-12-31"
     }
   ]

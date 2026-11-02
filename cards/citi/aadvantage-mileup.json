@@ -14,10 +14,11 @@
   "legacyIds": [
     "196b33e005dd1bc8e1c505f2bf98a1d1"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
-    "https://creditcards.aa.com/mileup_standard/"
+    "https://creditcards.aa.com/mileup_standard/",
+    "https://www.citi.com/credit-cards/aadvantage-mile-up-credit-card"
   ],
   "earn": {
     "unit": "miles",
@@ -36,7 +37,7 @@
         "merchants": "Purchases billed by American Airlines as merchant of record"
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "benefits": []
 }

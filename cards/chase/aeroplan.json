@@ -14,7 +14,7 @@
   "legacyIds": [
     "7662e34a89a906b869b93bb12a2e1b3b"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
     "https://upgradedpoints.com/news/refreshed-chase-aeroplan-card-2026/",
@@ -23,7 +23,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -41,13 +41,29 @@
         "category": "groceries",
         "rate": 2,
         "channel": "any",
-        "note": "Earns 3X on purchases posted by 12/31/2026; 2X is the rate after that."
+        "note": "2X standing rate; 3X on purchases posted through 12/31/2026 is the separate promo row."
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Promo rate, posted through 12/31/2026",
+        "endDate": "2026-12-31",
+        "note": "Falls back to 2X for purchases posted after 12/31/2026."
       },
       {
         "category": "dining",
         "rate": 2,
         "channel": "any",
-        "note": "Includes takeout and eligible delivery. Earns 3X on purchases posted by 12/31/2026; 2X after."
+        "note": "Includes takeout and eligible delivery. 2X standing rate; 3X on purchases posted through 12/31/2026 is the separate promo row."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Promo rate, posted through 12/31/2026",
+        "endDate": "2026-12-31",
+        "note": "Includes takeout and eligible delivery. Falls back to 2X for purchases posted after 12/31/2026."
       },
       {
         "category": "gas",
@@ -71,7 +87,7 @@
         "canada"
       ],
       "matchVerified": false,
-      "notes": "Up to $50 Jan–Jun and $50 Jul–Dec on purchases made directly with Air Canada (only one $50 credit for the rest of 2026; semiannual from 2027)."
+      "notes": "Up to $50 Jan 1-Jun 30 and up to $50 Jul 1-Dec 31 each calendar year on purchases made directly with Air Canada (tickets via agencies/third parties, gift cards, car rentals, hotels and Wi-Fi excluded)."
     },
     {
       "id": "global-entry-credit",
@@ -121,6 +137,120 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "aeroplan-25k-status",
+      "name": "Aeroplan 25K status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Automatic Aeroplan 25K status as a cardmember with no spend requirement: priority check-in, priority boarding (Zone 2), extra baggage allowance, Star Alliance recognition, eUpgrade credits."
+    },
+    {
+      "id": "fly15off",
+      "name": "FLY15OFF award discount",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "At least 15% fewer Aeroplan points on the base fare of eligible Air Canada flight reward redemptions; account must be linked to Aeroplan."
+    },
+    {
+      "id": "free-checked-bag",
+      "name": "Free first checked bags",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Cardmember and up to 8 others on the same reservation get the first checked bag free on Air Canada flights."
+    },
+    {
+      "id": "annual-sqc",
+      "name": "5,000 SQC each year",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5,000 Status Qualifying Credits each calendar year as primary cardmember; card SQC capped at 25,000 per Aeroplan member per calendar year."
+    },
+    {
+      "id": "sqc-25k",
+      "name": "10,000 SQC after $25K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 25000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000 SQC when you spend $25,000 in a calendar year (spend resets each Jan 1)."
+    },
+    {
+      "id": "sqc-50k",
+      "name": "10,000 more SQC after $50K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 50000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Additional 10,000 SQC when you spend $50,000 in a calendar year (spend resets each Jan 1)."
+    },
+    {
+      "id": "aeroplan-35k-status",
+      "name": "Aeroplan 35K status after $75K",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 75000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Aeroplan 35K status (adds priority security clearance) for the rest of the calendar year and the next one after $75,000 in purchases in a calendar year."
     }
   ]
 }

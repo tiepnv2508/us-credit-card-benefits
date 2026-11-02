@@ -14,15 +14,16 @@
   "legacyIds": [
     "fb5e3887059d5d8600b2a5eaed7ddaf7"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
-    "https://www.instacart.com/p/chase-cobrands"
+    "https://www.instacart.com/p/chase-cobrands",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -84,7 +85,7 @@
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "15 Elite Night Credits deposited on or before March 1 each year after the first (card must be open and linked to a Marriott Bonvoy account)."
+      "notes": "15 Elite Night Credits within 60 days of account opening, then on or before March 1 of each subsequent calendar year (primary cardmember; card account open; linked Marriott Bonvoy account)."
     },
     {
       "id": "instacart-credit",
@@ -114,6 +115,37 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "gold-elite-status",
+      "name": "Gold Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Automatic Marriott Bonvoy Gold Elite status each calendar year as a cardmember (initial award within 8 weeks of account opening)."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

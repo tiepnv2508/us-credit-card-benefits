@@ -14,15 +14,17 @@
   "legacyIds": [
     "169256a9988f3161381ee6a9ebe6667e"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
-    "https://www.instacart.com/p/chase-southwest-airlines"
+    "https://www.instacart.com/p/chase-southwest-airlines",
+    "https://creditcards.chase.com/southwest/priority-credit-card",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -109,7 +111,83 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated 2/1/2025-8/31/2026 (monthly if first activated 9/1/2026-12/31/2027), while enrolled in DashPass via the card (12 months complimentary, then paid). Activate DashPass by 12/31/2027.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "first-checked-bag",
+      "name": "Free first checked bag",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First standard checked bag free for the primary cardmember and up to 8 passengers on the same reservation (Rapid Rewards number on the reservation; Southwest-operated flights)."
+    },
+    {
+      "id": "preferred-seat",
+      "name": "Complimentary Preferred seat",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Select a Preferred or Standard seat at booking, at no charge, when available, for the cardmember and up to 8 passengers on the reservation."
+    },
+    {
+      "id": "extra-legroom-upgrade",
+      "name": "Extra Legroom upgrades",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Unlimited upgrades to an Extra Legroom seat within 48 hours before departure, when available, for the cardmember and up to 8 passengers."
+    },
+    {
+      "id": "inflight-cashback",
+      "name": "25% back on inflight",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25% statement credit on Southwest inflight drink and Wi-Fi purchases made with the card."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

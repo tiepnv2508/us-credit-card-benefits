@@ -14,14 +14,14 @@
   "legacyIds": [
     "d4955a21df61a45ad86c3d60c58b91fc"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/small-business/credit-cards/spark-cash-select"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1.5,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "hotels",

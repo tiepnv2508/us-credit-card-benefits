@@ -14,12 +14,61 @@
   "legacyIds": [
     "ab55a96910ffc7f31fc1605c99430ec5"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://us.etrade.com/l/morgan-stanley-platinum",
     "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-    "https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/benefits/"
+    "https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/benefits/",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/partner/print/personal-card/msb/morgan-stanley-platinum-card/ep-msb-mcs-29"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-01",
+    "rates": [
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "direct",
+        "cap": {
+          "amount": 500000,
+          "period": "year"
+        },
+        "merchants": "Booked directly with airlines",
+        "note": "$500,000 cap per calendar year applies to these flights. Shared with American Express Travel flights."
+      },
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "cap": {
+          "amount": 500000,
+          "period": "year"
+        },
+        "merchants": "American Express Travel",
+        "note": "$500,000 cap per calendar year applies to these flights. Shared with flights booked directly."
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels and Airbnb stays through American Express Travel"
+      },
+      {
+        "category": "car_rental",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid car rentals on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid cruises booked through AmexTravel.com or by phone",
+        "note": "Terms also list 2X on Platinum Destination Vacation bookings made by phone."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hotel-credit",
@@ -35,7 +84,7 @@
         "hotel"
       ],
       "matchVerified": false,
-      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
+      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection bookings via Amex Travel. The Hotel Collection needs a 2-night minimum; Fine Hotels + Resorts bookings need one from Jan 1, 2027. Business Platinum posts as \"Platinum Hotel Credit\"."
     },
     {
       "id": "resy-credit",
@@ -229,7 +278,7 @@
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
+      "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta. Unlimited Delta Sky Club visits and 2 free guests at Sidecar by The Centurion Lounge unlock after $75,000 of purchases in a calendar year."
     },
     {
       "id": "marriott-gold-status",
@@ -288,6 +337,20 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."
+    },
+    {
+      "id": "annual-engagement-bonus",
+      "name": "Annual Engagement Bonus",
+      "type": "perk",
+      "value": 895,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$895 deposited into the Basic Card Member's Morgan Stanley Platinum CashPlus account after account opening and each year after renewal (needs that account). Not a statement credit."
     }
   ]
 }

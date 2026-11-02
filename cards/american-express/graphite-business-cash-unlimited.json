@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "amex-graphite-business-cash-unlimited",
+  "name": "Graphite Business Cash Unlimited",
+  "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 295,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/graphite-business-cash-unlimited-card/",
+  "lastVerified": "2026-11-01",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/graphite-business-cash-unlimited-card/",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/graphite-business-card/73055-9-0",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/"
+  ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 2,
+    "lastVerified": "2026-11-01",
+    "notes": "Cash back is received as Reward Dollars. Purchases eligible for more than one rate earn only the highest rate.",
+    "rates": [
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Scheduled flights booked on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels booked through American Express Travel"
+      }
+    ]
+  },
+  "benefits": [
+    {
+      "id": "one-ap-credit",
+      "name": "One AP statement credit",
+      "type": "perk",
+      "value": 2400,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 250000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Up to $2,400 in statement credits against American Express One AP fees, available in the calendar year AFTER you spend $250,000 on the card in a calendar year. Requires an approved One AP account billed to this card."
+    }
+  ]
+}

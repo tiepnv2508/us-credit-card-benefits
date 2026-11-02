@@ -14,16 +14,17 @@
   "legacyIds": [
     "6980c320c341292b63273e4362601aa8"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",
     "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/rsvp/terms/blue-cash-everyday-credit-card?showBenefitTerms=true"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "groceries",
@@ -92,7 +93,7 @@
         "chef"
       ],
       "matchVerified": false,
-      "notes": "Home Chef meal kits purchased online."
+      "notes": "Up to $15/month on a Home Chef meal-kit subscription bought online at homechef.com/blue-cash-everyday (48 contiguous states + DC); enrollment required. Still in the card benefit terms but not shown on the current product page; unconfirmed."
     }
   ]
 }

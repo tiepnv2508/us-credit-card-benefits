@@ -14,7 +14,7 @@
   "legacyIds": [
     "8ec7f405d03afa62eaeea7e197a29e8a"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/ink/cash",
     "https://www.instacart.com/p/chase-ink"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "office_supplies",

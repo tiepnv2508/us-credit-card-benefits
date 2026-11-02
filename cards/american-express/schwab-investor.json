@@ -14,9 +14,18 @@
   "legacyIds": [
     "a3b091353bd1a45ad58f75e5287f1fd6"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
-    "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards"
+    "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards",
+    "https://www.schwab.com/credit-cards",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/partner/print/personal-card/csb/charles-schwab-investor-credit-card/ep-IDAE"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-01",
+    "notes": "1.5% on eligible purchases, deposited into the linked eligible Schwab account (not a statement credit); Basic Card Member with an eligible Schwab account only.",
+    "rates": []
+  },
   "benefits": []
 }

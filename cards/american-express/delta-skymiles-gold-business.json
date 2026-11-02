@@ -14,16 +14,17 @@
   "legacyIds": [
     "509a09cbd31edd8df85928d044ef7802"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold/61468-9-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold/61468-9-0",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/delta-skymiles-gold/45094-9-0"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",

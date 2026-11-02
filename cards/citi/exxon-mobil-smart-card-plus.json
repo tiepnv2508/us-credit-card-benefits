@@ -8,10 +8,10 @@
   "currency": "USD",
   "annualFee": 0,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://www.citi.com/credit-cards/exxon-mobil-credit-card",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/exxon-mobil-credit-card/exxon-mobil-credit-card_306x192.webp",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.citi.com/credit-cards/exxon-mobil-credit-card",
     "https://www.citi.com/credit-cards/view-all-credit-cards"

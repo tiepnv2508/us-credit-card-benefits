@@ -14,7 +14,7 @@
   "legacyIds": [
     "77e3ef2fc9c35498ba1a3f46a63235cb"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
     "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/",
@@ -23,7 +23,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Purchases covered by the $300 travel credit or The Edit credit earn no points.",
     "rates": [
       {
@@ -121,7 +121,7 @@
       "descriptorExamples": [
         "HOTEL CREDIT $250/YEAR"
       ],
-      "notes": "2026 only: prepaid 2+ night stays booked through Chase Travel at IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific hotels. Stackable with The Edit credit.",
+      "notes": "2026 only: prepaid 2+ night stays booked through Chase Travel at IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific hotels. Stackable with The Edit credit. Not shown on the current Chase page (2026-11-01 check); kept because it ran through 12/31/2026.",
       "endDate": "2026-12-31"
     },
     {
@@ -141,7 +141,8 @@
       "descriptorExamples": [
         "DINING CREDIT $300/YEAR"
       ],
-      "notes": "Up to $150 Jan–Jun and $150 Jul–Dec at Sapphire Reserve Exclusive Tables restaurants on OpenTable."
+      "notes": "Up to $150 Jan–Jun and $150 Jul–Dec at Sapphire Reserve Exclusive Tables restaurants on OpenTable. Chase benefit term runs through 6/30/2030.",
+      "endDate": "2030-06-30"
     },
     {
       "id": "stubhub-credit",
@@ -195,7 +196,7 @@
     },
     {
       "id": "doordash-restaurant",
-      "name": "DoorDash restaurant",
+      "name": "DoorDash $15 promo",
       "type": "credit",
       "value": 15,
       "frequency": "monthly",
@@ -205,7 +206,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Restaurant-order promo, part of the $420/yr DoorDash benefit. Monthly in-app DoorDash promos with DashPass activated through the card: one restaurant promo plus two $10 non-restaurant promos (Chase totals $420/yr). Non-cumulative.",
+      "notes": "$15 monthly promo on any qualifying DoorDash order (from 10/1/2026; replaced the earlier $5 restaurant promo), while enrolled in DashPass via the card. Part of up to $35/month ($420/yr) with the two $10 non-restaurant promos. Non-cumulative.",
       "endDate": "2029-12-31"
     },
     {
@@ -341,6 +342,76 @@
       ],
       "matchVerified": false,
       "notes": "Only after $75,000 spend in a calendar year: $500 credit on Southwest flights booked through Chase Travel, for the rest of that year and the next. Descriptor unverified."
+    },
+    {
+      "id": "ihg-platinum-status",
+      "name": "IHG Platinum Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary IHG One Rewards Platinum Elite status through 12/31/2027 for the primary cardmember; link your IHG One Rewards account.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "hyatt-explorist-spend",
+      "name": "Hyatt Explorist ($75K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 75000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "World of Hyatt Explorist status after $75,000 in purchases in a calendar year, for the rest of that year, the next calendar year and through February after that; link your World of Hyatt account."
+    },
+    {
+      "id": "ihg-diamond-spend",
+      "name": "IHG Diamond Elite ($75K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 75000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "IHG One Rewards Diamond Elite status after $75,000 in purchases in a calendar year, for the rest of that year and the next calendar year."
+    },
+    {
+      "id": "southwest-a-list-spend",
+      "name": "Southwest A-List ($75K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 75000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Southwest Rapid Rewards A-List status after $75,000 in purchases in a calendar year; link your Rapid Rewards account."
     }
   ]
 }

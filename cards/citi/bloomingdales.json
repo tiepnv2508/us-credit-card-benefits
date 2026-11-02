@@ -11,7 +11,7 @@
   "discontinued": false,
   "url": "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/bloomingdales-credit-cards/bloomingdales-credit-cards0_306x192.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
@@ -28,8 +28,8 @@
         "note": "3 at Loyallists, 4 at Top of the List, 10 at Top of the List Unlocked."
       }
     ],
-    "lastVerified": "2026-10-31",
-    "notes": "Store card: earns only at Bloomingdale's. 5,000 points = $25 Reward."
+    "lastVerified": "2026-11-01",
+    "notes": "Store card: earns only at Bloomingdale's. Top of the List needs $5,000 and Unlocked $15,000 in net Bloomingdale's spend per calendar year. 5,000 points = $25 Reward (expires after 6 months); 85% of points forfeited each Jan 1."
   },
   "benefits": []
 }

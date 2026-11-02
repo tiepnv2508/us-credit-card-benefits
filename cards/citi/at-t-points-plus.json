@@ -14,7 +14,7 @@
   "legacyIds": [
     "d4bbd57e45d6a6ddb445ddec4e781d7c"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.att.com/deals/att-points-plus-citi/",
     "https://citi.com/credit-cards/citi-att-pointsplus-credit-card"
@@ -47,7 +47,22 @@
         "merchants": "Products and services purchased directly from AT&T, including phone or internet bills"
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
-  "benefits": []
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "monthly-statement-credit",
+      "name": "Monthly statement credit",
+      "type": "perk",
+      "value": 20,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "notes": "$20 statement credit each billing cycle in which you spend $1,000 or more on net purchases (up to $240 a year). The threshold is per billing cycle, not per calendar/cardmember year, so unlockSpend is not used. Posted descriptor unknown, so no matchKeywords. The separate AT&T AutoPay/paperless bill discount is provided by AT&T, not the card."
+    }
+  ]
 }

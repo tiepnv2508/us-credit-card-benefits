@@ -14,19 +14,19 @@
   "legacyIds": [
     "434df114291a974c876d58cf79158376"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
-    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/",
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-american-express-business-credit-card-amex/",
     "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/",
-    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/hilton-honors-american-express-business-credit-card/45094-9-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 3,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",

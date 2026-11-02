@@ -14,15 +14,16 @@
   "legacyIds": [
     "cafe43d37256bec116dff4be6cced2cf"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
-    "https://upgradedpoints.com/news/amex-gold-easier-to-use-benefits-refresh/"
+    "https://upgradedpoints.com/news/amex-gold-easier-to-use-benefits-refresh/",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/personal/gold-card/25330-10-0/"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "dining",

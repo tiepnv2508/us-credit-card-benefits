@@ -14,15 +14,16 @@
   "legacyIds": [
     "0d9d833e7298ab0f1892a4035686fa06"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
-    "https://www.instacart.com/p/chase-cobrands"
+    "https://www.instacart.com/p/chase-cobrands",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "2X applies automatically to the 3 listed categories with the most spend each calendar quarter, so no single category is guaranteed; others stay at 1X.",
     "rates": [
       {
@@ -92,6 +93,69 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "discoverist-status",
+      "name": "Discoverist status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "World of Hyatt Discoverist status for the authorizing officer while the account is open, plus 5 Discoverist Upgrade Awards to gift status to 5 employees. Also 5 tier-qualifying night credits for every $10,000 in purchases each calendar year."
+    },
+    {
+      "id": "redemption-bonus",
+      "name": "10% points redemption bonus",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 50000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "After $50,000 in purchases in a calendar year (you and employees combined), get 10% of redeemed points back for the rest of that year, on up to 200,000 points redeemed."
+    },
+    {
+      "id": "hyatt-leverage",
+      "name": "Hyatt Leverage membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary Hyatt Leverage membership for the authorizing officer (up to 15% off standard room rates at participating Hyatt hotels); enroll at hyatt.com/hl-chase."
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "12 months of complimentary DashPass when first activated with the card by 12/31/2027, then auto-renews at the paid rate until cancelled. Activation window 2/1/2025-12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

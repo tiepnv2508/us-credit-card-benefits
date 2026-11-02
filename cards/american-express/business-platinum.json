@@ -14,19 +14,20 @@
   "legacyIds": [
     "656a6a4296d40de4c62cc3ec888e5018"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
     "https://www.uscreditcardguide.com/amex-business-platinum-card/",
     "https://www.doctorofcredit.com/american-express-refreshes-platinum-business-platinum-cards-895-fee-175k-200k-bonus-many-new-credits/",
     "https://thriftytraveler.com/news/credit-card/amex-business-platinum-dell-adobe-credits/",
     "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/business-platinum-charge-card/45094-9-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "flights",
@@ -39,6 +40,13 @@
         "rate": 5,
         "channel": "issuer_portal",
         "merchants": "Prepaid hotels through American Express Travel, including FHR and The Hotel Collection"
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Cruise bookings on AmexTravel.com",
+        "note": "1 additional point (2X) on eligible cruise bookings through American Express Travel."
       },
       {
         "category": "other",
@@ -104,7 +112,37 @@
       "descriptorExamples": [
         "Platinum Hotel Credit"
       ],
-      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel."
+      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on new prepaid Fine Hotels + Resorts, The Hotel Collection or Airbnb Luxe bookings via Amex Travel. The Hotel Collection and Airbnb Luxe need 2 consecutive nights; Fine Hotels + Resorts needs 2 nights from 2027-01-01."
+    },
+    {
+      "id": "airbnb-experiences-credit",
+      "name": "Airbnb Experiences credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airbnb"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $250 per calendar year on Airbnb Experiences bought directly with Airbnb, after one prepaid Airbnb Luxe booking via AmexTravel.com or the Amex Travel App unlocks it for that year."
+    },
+    {
+      "id": "zo-membership-credit",
+      "name": "ZO event space / Dining Club credit",
+      "type": "perk",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Up to $500 per calendar year in statement credits on event space bookings at ZO or Studio locations (Tishman Speyer) and/or a Dining Club membership; comes with a complimentary ZO Membership. Descriptor unknown, so added as a perk."
     },
     {
       "id": "airline-fee-credit",
@@ -165,7 +203,7 @@
       "descriptorExamples": [
         "TSA Global Entry Fee Credit"
       ],
-      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+      "notes": "Up to $120 for Global Entry or up to $85 for TSA PreCheck; one credit every 4 years across both programs per Amex terms. Interval counts from the last credit."
     },
     {
       "id": "dell-credit",
@@ -247,7 +285,7 @@
         "wireless"
       ],
       "matchVerified": false,
-      "notes": "U.S. wireless telephone service providers."
+      "notes": "U.S. wireless telephone service providers. From 2027-02-17 limited to Verizon, AT&T, T-Mobile, Frontier, Comcast, Charter, Spectrum Mobile, UScellular, Optimum, Ultra Mobile and Mint Mobile."
     },
     {
       "id": "hilton-credit",
@@ -303,7 +341,25 @@
       },
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Only after $250,000+ of spend in a calendar year: up to $1,200 for flights booked via Amex Travel the following year (plus up to $2,400 in One AP credits)."
+      "notes": "Only after $250,000+ of purchases in a calendar year: up to $1,200 for flights booked via Amex Travel in the following calendar year. Enrollment not required. Same $250,000 also unlocks the One AP credit."
+    },
+    {
+      "id": "one-ap-credit",
+      "name": "American Express One AP credit",
+      "type": "perk",
+      "value": 2400,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 250000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Only after $250,000+ of purchases in a calendar year: up to $2,400 in statement credits in the following calendar year against American Express One AP fees. Needs a separately approved One AP account billed to this card."
     },
     {
       "id": "lounge-access",
@@ -318,7 +374,7 @@
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
+      "notes": "Centurion Lounges, Sidecar, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta. Complimentary Centurion/Sidecar guest access (2 guests) after $75,000 calendar-year spend."
     },
     {
       "id": "marriott-gold-status",

@@ -14,10 +14,11 @@
   "legacyIds": [
     "c6b04cf07dd821ddcfba3dbe398a4b31"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
-    "https://creditcards.aa.com/globe_standard/"
+    "https://creditcards.aa.com/globe_standard/",
+    "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard"
   ],
   "earn": {
     "unit": "miles",
@@ -53,7 +54,7 @@
         "channel": "any"
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "benefits": [
     {

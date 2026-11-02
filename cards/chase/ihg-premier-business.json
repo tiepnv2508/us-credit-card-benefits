@@ -14,7 +14,7 @@
   "legacyIds": [
     "bc82fb7022c639f90b9378410127b9e6"
   ],
-  "lastVerified": "2026-10-21",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
     "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -24,7 +24,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 3,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -222,6 +222,69 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "20,000 bonus points after $25,000 in purchases each calendar year."
+    },
+    {
+      "id": "platinum-elite-auto",
+      "name": "Automatic Platinum Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Platinum Elite status for as long as you are a Business cardmember."
+    },
+    {
+      "id": "annual-enc",
+      "name": "15 Elite Night Credits each year",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits at account opening, then deposited by Feb 1 each calendar year while the account is open. Also 2 ENC per $5,000 spent."
+    },
+    {
+      "id": "diamond-elite-status",
+      "name": "Diamond Elite after $50K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 50000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Starting January 1, 2027: Diamond Elite status for the rest of the calendar year and the next after $50,000 in purchases in a calendar year."
+    },
+    {
+      "id": "fourth-night-free",
+      "name": "4th Reward Night free",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Every 4th night free on a consecutive 4+ night standard Reward Night stay at the same hotel; unlimited stays, no spend needed."
     }
   ]
 }

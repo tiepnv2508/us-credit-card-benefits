@@ -14,15 +14,16 @@
   "legacyIds": [
     "90436ebe63417596fbc6cb5b7e5a2e8c"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/26129-10-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/26129-10-0",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/25330-10-0"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",

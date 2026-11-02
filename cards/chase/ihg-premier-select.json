@@ -11,14 +11,14 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg_premier_select_card.png",
-  "lastVerified": "2026-10-21",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 3,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -205,6 +205,69 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "5 extra Elite Night Credits after $15,000 in purchases each calendar year (on top of the 2 ENC earned per $5,000 spent)."
+    },
+    {
+      "id": "platinum-elite-auto",
+      "name": "Automatic Platinum Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Platinum Elite status for as long as you are a Premier Select cardmember."
+    },
+    {
+      "id": "annual-enc",
+      "name": "20 Elite Night Credits each year",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "20 Elite Night Credits at account opening, then deposited by Feb 1 each calendar year while the account is open. Also 2 ENC per $5,000 spent (plus 5 ENC after $15,000, see spend perk)."
+    },
+    {
+      "id": "spend-15k-bonus",
+      "name": "20K bonus points after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "20,000 bonus points after $15,000 in purchases each calendar year."
+    },
+    {
+      "id": "fourth-night-free",
+      "name": "4th Reward Night free",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Every 4th night free on a consecutive 4+ night standard Reward Night stay at the same hotel; unlimited stays, no spend needed."
     }
   ]
 }

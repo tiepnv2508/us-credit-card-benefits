@@ -14,7 +14,7 @@
   "legacyIds": [
     "cd81837eb0aedd4752197e044e77381a"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
     "https://www.instacart.com/p/chase-cobrands"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Earns Disney Rewards Dollars, not cash: $1 each, redeemable at Disney U.S. locations or against airline purchases.",
     "rates": [
       {

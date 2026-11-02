@@ -11,7 +11,7 @@
   "discontinued": false,
   "url": "https://www.citi.com/credit-cards/citi-macys-credit-card",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-macys-credit-card/citi-macys-credit-card0_306x192.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.citi.com/credit-cards/citi-macys-credit-card",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
@@ -46,7 +46,7 @@
         "note": "U.S. stand-alone supermarkets; excludes superstores and warehouses."
       }
     ],
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "1,000 points = $10 Star Money, usable only at Macy's."
   },
   "benefits": []

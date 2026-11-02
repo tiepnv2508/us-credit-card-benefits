@@ -14,7 +14,7 @@
   "legacyIds": [
     "9aa036266b8cc7e7512a630efdecae0b"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/credit-cards/venture-x/",
     "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
@@ -23,7 +23,7 @@
   "earn": {
     "unit": "miles",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Vacation rentals booked through Capital One Travel earn 5X.",
     "rates": [
       {
@@ -127,6 +127,21 @@
       "intervalMonths": 48,
       "alignment": "anniversary",
       "category": "security"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "hertz-presidents-circle",
+      "name": "Hertz President's Circle status",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Enroll in Hertz Gold Plus Rewards status upgrade via the Benefits tab in your Capital One account."
     }
   ]
 }

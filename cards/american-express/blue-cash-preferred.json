@@ -14,16 +14,17 @@
   "legacyIds": [
     "04abf9273e03fbe626fe80a9ffd53523"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
     "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/rsvp/terms/blue-cash-preferred-credit-card?showBenefitTerms=true"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "groceries",

@@ -14,16 +14,17 @@
   "legacyIds": [
     "5d8c589d1e7c1294d04fa6e4a2685624"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
     "https://www.doctorofcredit.com/chase-sapphire-reserve-for-business-increases-the-edit-credit-to-1000-per-year-4-x-250/",
-    "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/"
+    "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "Purchases covered by the $300 travel credit or The Edit credit earn no points.",
     "rates": [
       {
@@ -281,6 +282,76 @@
       ],
       "matchVerified": false,
       "notes": "Only after $120,000 spend in a calendar year: $500 on Southwest flights booked through Chase Travel. Descriptor unverified."
+    },
+    {
+      "id": "ihg-platinum-status",
+      "name": "IHG Platinum Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary IHG One Rewards Platinum Elite status through 12/31/2027 for the primary cardmember; not for employee cards.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "hyatt-explorist-spend",
+      "name": "Hyatt Explorist ($120K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 120000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "World of Hyatt Explorist status after $120,000 in purchases in a calendar year, for the rest of that year, the next calendar year and through February after that; activate by linking your World of Hyatt account."
+    },
+    {
+      "id": "ihg-diamond-spend",
+      "name": "IHG Diamond Elite ($120K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 120000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "IHG One Rewards Diamond Elite status after $120,000 in purchases in a calendar year, for the rest of that year and the next calendar year; activate by linking your IHG One Rewards account."
+    },
+    {
+      "id": "southwest-a-list-spend",
+      "name": "Southwest A-List ($120K spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "unlockSpend": {
+        "amount": 120000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Southwest Rapid Rewards A-List status after $120,000 in purchases in a calendar year, through the following calendar year; activate by linking your Rapid Rewards account (name must match)."
     }
   ]
 }

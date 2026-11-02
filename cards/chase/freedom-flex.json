@@ -14,14 +14,14 @@
   "legacyIds": [
     "6ba7f561f6a4f7f2934bec25bd9a3130"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "rotating",
@@ -58,5 +58,21 @@
       }
     ]
   },
-  "benefits": []
+  "benefits": [
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Page says through 12/31/2029 (activate DashPass by then).",
+      "endDate": "2029-12-31"
+    }
+  ]
 }

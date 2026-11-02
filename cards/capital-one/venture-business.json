@@ -14,7 +14,7 @@
   "legacyIds": [
     "e48261ce7908f2ed8403245217f44de7"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/small-business/credit-cards/venture-business/",
     "https://www.nerdwallet.com/business/credit-cards/reviews/venture-business"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "miles",
     "baseRate": 2,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "hotels",
@@ -87,6 +87,21 @@
       "intervalMonths": 48,
       "alignment": "anniversary",
       "category": "security"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "hertz-five-star",
+      "name": "Hertz Five Star status",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Enroll in Hertz Gold Plus Rewards status upgrade via the Benefits tab in your Capital One account."
     }
   ]
 }

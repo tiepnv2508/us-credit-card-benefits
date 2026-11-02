@@ -14,7 +14,7 @@
   "legacyIds": [
     "dcafcac45d86331a7f6b9cfdb980b81e"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
     "https://www.instacart.com/p/chase-cobrands"
@@ -22,7 +22,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -100,7 +100,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]

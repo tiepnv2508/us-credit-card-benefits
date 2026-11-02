@@ -14,14 +14,14 @@
   "legacyIds": [
     "66f7413248c7f2c61ce1e8008685eac2"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/credit-cards/quicksilver/"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1.5,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "hotels",
@@ -43,5 +43,21 @@
       }
     ]
   },
-  "benefits": []
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "hertz-five-star",
+      "name": "Hertz Five Star status",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Enroll in Hertz Gold Plus Rewards status upgrade via the Benefits tab in your Capital One account."
+    }
+  ]
 }

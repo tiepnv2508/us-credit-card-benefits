@@ -14,16 +14,17 @@
   "legacyIds": [
     "2a3949c2232cf6646a59531728264a5c"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/25330-10-0"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -99,7 +100,7 @@
         "tsa"
       ],
       "matchVerified": false,
-      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+      "notes": "Up to $120 for Global Entry or up to $85 for TSA PreCheck; one credit every 4 years across both programs per Amex terms. Interval counts from the last credit."
     },
     {
       "id": "companion-certificate",
@@ -128,7 +129,21 @@
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "15 visits per Medallion year when flying Delta (unlimited after $75,000 calendar-year spend); Centurion Lounge access when flying Delta."
+      "notes": "15 Sky Club visits per year (issued at account opening and each Feb 1, expire Jan 31); unlimited after $75,000 calendar-year spend; Centurion Lounge, Sidecar and Escape Lounge access when flying Delta."
+    },
+    {
+      "id": "sky-club-guest-passes",
+      "name": "Delta Sky Club guest passes (4)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Four One-Time Guest Passes for Delta Sky Club or Grab and Go, issued within 6-8 weeks of account opening and again after each Feb 1; expire Jan 31. Basic Card Member only."
     },
     {
       "id": "mqd-headstart",

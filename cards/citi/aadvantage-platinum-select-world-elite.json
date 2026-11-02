@@ -14,10 +14,11 @@
   "legacyIds": [
     "a497d6ba509538db9e3e4a3e5e313fe9"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
-    "https://creditcards.aa.com/plat_standard"
+    "https://creditcards.aa.com/plat_standard",
+    "https://www.citi.com/credit-cards/citi-aadvantage-platinum-select-world-elite-mastercard"
   ],
   "earn": {
     "unit": "miles",
@@ -42,7 +43,7 @@
         "merchants": "Purchases billed by American Airlines as merchant of record"
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "benefits": [
     {

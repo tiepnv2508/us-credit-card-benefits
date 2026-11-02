@@ -14,15 +14,16 @@
   "legacyIds": [
     "aff8fcfdc6a69cef4936e1e474820516"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/business-green-rewards-charge-card/45094-9-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "flights",

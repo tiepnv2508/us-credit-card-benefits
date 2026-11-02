@@ -14,17 +14,18 @@
   "legacyIds": [
     "191f603ca5af9306d5db0fb208e9a646"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
     "https://www.uscreditcardguide.com/amex-business-gold-rewards-card/",
     "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/",
-    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd"
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd",
+    "https://www.americanexpress.com/en-us/credit-cards/apply/terms/business/prospect/businessgold-card/45094-9-0"
   ],
   "earn": {
     "unit": "points",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "notes": "4X applies automatically to the top 2 of 6 eligible categories each billing cycle, not to all six.",
     "rates": [
       {

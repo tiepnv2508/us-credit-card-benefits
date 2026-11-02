@@ -14,7 +14,7 @@
   "legacyIds": [
     "40192e08e31f059d91a108ff09ec5dd5"
   ],
-  "lastVerified": "2026-10-21",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
     "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -23,7 +23,7 @@
   "earn": {
     "unit": "points",
     "baseRate": 3,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -125,7 +125,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$25 United TravelBank cash Jan–Jun and Jul–Dec (link your MileagePlus account)."
+      "notes": "$25 United TravelBank cash deposited around Jan 5 and Jul 5 each year (Jan-Jun deposit expires Jul 15, Jul-Dec deposit expires Jan 15); link your MileagePlus account."
     },
     {
       "id": "global-entry-credit",
@@ -229,6 +229,51 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Diamond Elite status through December 31 of the following year after $40,000 in purchases in a calendar year."
+    },
+    {
+      "id": "gold-elite-auto",
+      "name": "Automatic Gold Elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Gold Elite status for as long as you are a Premier cardmember."
+    },
+    {
+      "id": "annual-enc",
+      "name": "15 Elite Night Credits each year",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits at account opening, then deposited by Feb 1 each calendar year while the account is open. Also 2 ENC per $5,000 spent (plus 5 ENC after $15,000, see spend perk)."
+    },
+    {
+      "id": "fourth-night-free",
+      "name": "4th Reward Night free",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Every 4th night free on a consecutive 4+ night standard Reward Night stay at the same hotel; unlimited stays, no spend needed."
     }
   ]
 }

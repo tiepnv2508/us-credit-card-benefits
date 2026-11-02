@@ -14,14 +14,14 @@
   "legacyIds": [
     "d0298263cc453d34160558a93fd1bcb2"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.capitalone.com/credit-cards/ventureone/"
   ],
   "earn": {
     "unit": "miles",
     "baseRate": 1.25,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "hotels",
@@ -34,8 +34,30 @@
         "rate": 5,
         "channel": "issuer_portal",
         "note": "Capital One Travel only."
+      },
+      {
+        "category": "entertainment",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Capital One Entertainment purchases only"
       }
     ]
   },
-  "benefits": []
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "hertz-five-star",
+      "name": "Hertz Five Star status",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Enroll in Hertz Gold Plus Rewards status upgrade via the Benefits tab in your Capital One account."
+    }
+  ]
 }

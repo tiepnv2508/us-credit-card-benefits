@@ -11,14 +11,14 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
   "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/doordash.png",
-  "lastVerified": "2026-10-21",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/doordash"
   ],
   "earn": {
     "unit": "cashback_percent",
     "baseRate": 1,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "rates": [
       {
         "category": "brand",
@@ -60,6 +60,21 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary 12 months of DashPass ($96 value) for you and one authorized user each anniversary year with $10,000+ in purchases on the card (12 months of DashPass are complimentary at account opening)."
+    },
+    {
+      "id": "monthly-10pct-off",
+      "name": "10% off DoorDash order",
+      "type": "credit",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10% off one convenience, grocery, alcohol, retail or DashMart order per calendar month, max $15 discount; DoorDash only (not Caviar), pay with the card. Offer valid through 3/31/2027.",
+      "endDate": "2027-03-31"
     }
   ]
 }

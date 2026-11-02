@@ -14,12 +14,13 @@
   "legacyIds": [
     "3543149f6555df6f7e4974923c55d853"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
     "https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/",
     "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/",
-    "https://creditcards.aa.com/exec_standard"
+    "https://creditcards.aa.com/exec_standard",
+    "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard"
   ],
   "earn": {
     "unit": "miles",
@@ -45,7 +46,7 @@
         "note": "5X after $150,000 in purchases in a calendar year, for the rest of that year."
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "benefits": [
     {
@@ -75,7 +76,7 @@
       "frequency": "monthly",
       "alignment": "calendar",
       "category": "rideshare",
-      "notes": "Lyft credit after 3 eligible rides in a calendar month (was $10 before the Aug 2026 refresh)."
+      "notes": "Lyft credit after 3 eligible rides in a calendar month (was $10 before the Aug 2026 refresh). Per Citi terms, Wait & Save rides are not eligible starting Feb 1, 2027."
     },
     {
       "inApp": false,
@@ -156,7 +157,7 @@
       "frequency": "annual",
       "alignment": "calendar",
       "category": "hotel",
-      "notes": "Earned after a qualifying 2+ night stay booked directly with Omni; requires Omni Champion enrollment. Added Aug 2026."
+      "notes": "Earned after a qualifying 2+ night stay booked directly with Omni; requires Omni Champion enrollment (enroll via Citi Mobile App Benefits Hub or the number on the card; Champion status is also included). Once per calendar year. Added Aug 2026."
     },
     {
       "inApp": false,
@@ -175,6 +176,36 @@
       "intervalMonths": 48,
       "alignment": "anniversary",
       "category": "security"
+    },
+    {
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "inkind-dining-credit",
+      "name": "inKind dining credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "dining",
+      "notes": "$100 Jan-Jun and $100 Jul-Dec ($200 per calendar year) in the inKind app; add the card in inKind and pay at inKind restaurants. Combined for primary and authorized users; no carryover."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "avis-presidents-club",
+      "name": "Avis President's Club status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "endDate": "2028-08-31",
+      "notes": "Complimentary Avis President's Club status through Aug 31, 2028; primary cardmember must enroll via the AAdvantage Rewards page and have an Avis Preferred account."
     }
   ]
 }

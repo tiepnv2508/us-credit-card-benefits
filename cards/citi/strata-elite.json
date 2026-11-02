@@ -14,7 +14,7 @@
   "legacyIds": [
     "19c94f90056968ebde2882f7bb0f1010"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-01",
   "sources": [
     "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
     "https://thepointsguy.com/credit-cards/citi-strata-elite-statement-credits",
@@ -50,12 +50,20 @@
       },
       {
         "category": "dining",
+        "rate": 6,
+        "channel": "any",
+        "note": "Includes delivery; excludes bakeries, caterers, restaurants inside another business.",
+        "merchants": "Citi Nights: authorized Fri 6 PM-Sat 6 AM or Sat 6 PM-Sun 6 AM ET"
+      },
+      {
+        "category": "dining",
         "rate": 3,
         "channel": "any",
-        "note": "6X only for purchases authorized Fri or Sat 6 PM to 6 AM ET (Citi Nights). Includes restaurant delivery."
+        "note": "Includes delivery; excludes bakeries, caterers, restaurants inside another business.",
+        "merchants": "Any other time (outside Citi Nights)"
       }
     ],
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "benefits": [
     {
@@ -74,7 +82,7 @@
     },
     {
       "inApp": false,
-      "enrollmentRequired": false,
+      "enrollmentRequired": true,
       "matchKeywords": [
         "splurge"
       ],
@@ -123,7 +131,7 @@
     },
     {
       "inApp": false,
-      "enrollmentRequired": true,
+      "enrollmentRequired": false,
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
@@ -152,6 +160,20 @@
       "intervalMonths": 48,
       "alignment": "anniversary",
       "category": "security"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "citigold-relationship-credit",
+      "name": "Citigold relationship credit",
+      "value": 145,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "Only with a Citigold relationship. Citigold: $145 statement credit each year; Citigold Private Client: $595 first year, then $145. Posts within 3 billing cycles after the $595 annual fee is charged."
     }
   ]
 }
