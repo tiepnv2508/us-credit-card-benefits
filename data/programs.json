@@ -1,0 +1,256 @@
+{
+  "programs": {
+    "AEROPLAN": {
+      "name": "Aeroplan",
+      "logo": "images/programs/AEROPLAN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Aeroplan_2020_Logo.svg",
+      "license": "Public domain"
+    },
+    "ALASKA": {
+      "name": "Alaska Atmos Rewards",
+      "logo": "images/programs/ALASKA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Alaska_Airlines_logo.svg",
+      "license": "Public domain"
+    },
+    "ALLEGIANT": {
+      "name": "Allegiant Allways Rewards",
+      "logo": "images/programs/ALLEGIANT.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Allegiant_Air_logo.svg",
+      "license": "Public domain"
+    },
+    "AMERICAN": {
+      "name": "American AAdvantage",
+      "logo": "images/programs/AMERICAN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:American_Airlines_wordmark_(2013).svg",
+      "license": "Public domain"
+    },
+    "AMERICAN_EXPRESS": {
+      "name": "Amex Membership Rewards",
+      "logo": "images/programs/AMERICAN_EXPRESS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:American_Express_logo_(2018).svg",
+      "license": "Public domain"
+    },
+    "AMTRAK": {
+      "name": "Amtrak Guest Rewards",
+      "logo": "images/programs/AMTRAK.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Amtrak_logo_2.svg",
+      "license": "Public domain"
+    },
+    "ANA": {
+      "name": "ANA Mileage Club",
+      "logo": "images/programs/ANA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:All_Nippon_Airways_Logo.svg",
+      "license": "Public domain"
+    },
+    "AVIOS": {
+      "name": "Avios",
+      "logo": "images/programs/AVIOS.png",
+      "source": "https://www.avios.com/",
+      "license": "Trademark (official brand asset)"
+    },
+    "BANK_OF_AMERICA": {
+      "name": "Bank of America Rewards",
+      "logo": "images/programs/BANK_OF_AMERICA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_logo.svg",
+      "license": "Public domain"
+    },
+    "BARCLAYS": {
+      "name": "Barclays Rewards",
+      "logo": "images/programs/BARCLAYS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Barclays-Logo.svg",
+      "license": "CC0"
+    },
+    "BEST_WESTERN": {
+      "name": "Best Western Rewards",
+      "logo": "images/programs/BEST_WESTERN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Best_Western_2015_logo.svg",
+      "license": "Public domain"
+    },
+    "BILT": {
+      "name": "Bilt Rewards",
+      "logo": "images/programs/BILT.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Bilt_Rewards_logo.svg",
+      "license": "Public domain"
+    },
+    "BREEZE": {
+      "name": "Breeze BreezePoints",
+      "logo": "images/programs/BREEZE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:BreezeAirwayslogo.svg",
+      "license": "Public domain"
+    },
+    "BREX": {
+      "name": "Brex Rewards",
+      "logo": "images/programs/BREX.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Brex_logo_black.svg",
+      "license": "Public domain"
+    },
+    "CAPITAL_ONE": {
+      "name": "Capital One Miles",
+      "logo": "images/programs/CAPITAL_ONE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Capital_One_logo.svg",
+      "license": "Public domain"
+    },
+    "CARNIVAL": {
+      "name": "Carnival VIFP Club",
+      "logo": "images/programs/CARNIVAL.png",
+      "source": "https://www.carnival.com/apple-touch-icon-192x192.png",
+      "license": "Trademark (official brand asset)"
+    },
+    "CATHAY_PACIFIC": {
+      "name": "Cathay",
+      "logo": "images/programs/CATHAY_PACIFIC.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Cathay_Pacific_Ltd._logo.svg",
+      "license": "Public domain"
+    },
+    "CHASE": {
+      "name": "Chase Ultimate Rewards",
+      "logo": "images/programs/CHASE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Chase_logo_2007.svg",
+      "license": "Public domain"
+    },
+    "CHOICE": {
+      "name": "Choice Privileges",
+      "logo": "images/programs/CHOICE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Choice_Hotels_logo.svg",
+      "license": "Public domain"
+    },
+    "CITI": {
+      "name": "Citi ThankYou Points",
+      "logo": "images/programs/CITI.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Citi_logo_March_2023.svg",
+      "license": "Public domain"
+    },
+    "DELTA": {
+      "name": "Delta SkyMiles",
+      "logo": "images/programs/DELTA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Delta_Air_Lines_2007_symbol.svg",
+      "license": "Public domain"
+    },
+    "EMIRATES": {
+      "name": "Emirates Skywards",
+      "logo": "images/programs/EMIRATES.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Emirates_Logo.svg",
+      "license": "Public domain"
+    },
+    "EXPEDIA": {
+      "name": "Expedia One Key",
+      "logo": "images/programs/EXPEDIA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Expedia_Logo_2023.svg",
+      "license": "Public domain"
+    },
+    "FRONTIER": {
+      "name": "Frontier Miles",
+      "logo": "images/programs/FRONTIER.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Frontier_Airlines_logo.svg",
+      "license": "Public domain"
+    },
+    "HARLEY_DAVIDSON": {
+      "name": "H-D Rewards",
+      "logo": "images/programs/HARLEY_DAVIDSON.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_orange_logo.svg",
+      "license": "Public domain"
+    },
+    "HAWAIIAN": {
+      "name": "Hawaiian Atmos Rewards",
+      "logo": "images/programs/HAWAIIAN.png",
+      "source": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltffd0768abb7bb3cd/hawaiian_logo",
+      "license": "Trademark (official brand asset)"
+    },
+    "HILTON": {
+      "name": "Hilton Honors",
+      "logo": "images/programs/HILTON.png",
+      "source": "https://stories.hilton.com/brands/hilton-honors",
+      "license": "Trademark (official brand asset)"
+    },
+    "HYATT": {
+      "name": "World of Hyatt",
+      "logo": "images/programs/HYATT.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyatt_Logo.svg",
+      "license": "Public domain"
+    },
+    "IHG": {
+      "name": "IHG One Rewards",
+      "logo": "images/programs/IHG.png",
+      "source": "https://commons.wikimedia.org/wiki/File:IHG_Primary_Centred_Logo_Black_RGB.png",
+      "license": "Public domain"
+    },
+    "JETBLUE": {
+      "name": "JetBlue TrueBlue",
+      "logo": "images/programs/JETBLUE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:JetBlue_Airways_Logo.svg",
+      "license": "Public domain"
+    },
+    "KOREAN": {
+      "name": "Korean Air SKYPASS",
+      "logo": "images/programs/KOREAN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Korean_Air_2025_(Taegeuk).svg",
+      "license": "Public domain"
+    },
+    "LATAM": {
+      "name": "LATAM Pass",
+      "logo": "images/programs/LATAM.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Latam-logo_-v_(Indigo).svg",
+      "license": "Public domain"
+    },
+    "LUFTHANSA": {
+      "name": "Miles & More",
+      "logo": "images/programs/LUFTHANSA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Miles_%26_More_Logo.svg",
+      "license": "Public domain"
+    },
+    "NORWEGIAN": {
+      "name": "Norwegian Latitudes Rewards",
+      "logo": "images/programs/NORWEGIAN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_2026_Logo.jpg",
+      "license": "CC0"
+    },
+    "ROYAL_CARIBBEAN": {
+      "name": "Royal Caribbean Crown & Anchor Society",
+      "logo": "images/programs/ROYAL_CARIBBEAN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Caribbean_logo_(2024).svg",
+      "license": "Public domain"
+    },
+    "SOUTHWEST": {
+      "name": "Southwest Rapid Rewards",
+      "logo": "images/programs/SOUTHWEST.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_logo_2014.svg",
+      "license": "Public domain"
+    },
+    "SPIRIT": {
+      "name": "Spirit Free Spirit",
+      "logo": "images/programs/SPIRIT.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Spirit_Airlines_logo.svg",
+      "license": "Public domain"
+    },
+    "UNITED": {
+      "name": "United MileagePlus",
+      "logo": "images/programs/UNITED.png",
+      "source": "https://commons.wikimedia.org/wiki/File:United_Airlines_wordmark.svg",
+      "license": "Public domain"
+    },
+    "US_BANK": {
+      "name": "U.S. Bank Rewards",
+      "logo": "images/programs/US_BANK.png",
+      "source": "https://commons.wikimedia.org/wiki/File:US_Bank_logo_2023_color.svg",
+      "license": "Public domain"
+    },
+    "VIRGIN": {
+      "name": "Virgin Atlantic Flying Club",
+      "logo": "images/programs/VIRGIN.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Virgin_Atlantic_logo_2018.svg",
+      "license": "Public domain"
+    },
+    "WELLS_FARGO": {
+      "name": "Wells Fargo Rewards",
+      "logo": "images/programs/WELLS_FARGO.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Logo_(2020).svg",
+      "license": "Public domain"
+    },
+    "WYNDHAM": {
+      "name": "Wyndham Rewards",
+      "logo": "images/programs/WYNDHAM.png",
+      "source": "https://www.wyndhamhotels.com/wyndham-rewards",
+      "license": "Trademark (official brand asset)"
+    }
+  }
+}
