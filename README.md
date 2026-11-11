@@ -76,6 +76,10 @@ Benefits change every year, and nobody holds every card — your corrections are
 
 Image guidelines: prefer a **flat, front-facing card**, one card per image. **Never** use art with a promotional overlay ("NEW OFFER", "NO ANNUAL FEE", bonus-points badges) or a lifestyle scene — leave `imageUrl` out instead. Angled or multi-card art without promo text is acceptable when the issuer publishes nothing flat (real art beats the app's drawn fallback); replace it once flat art turns up.
 
+## Program logos
+
+`programs` maps a currency code to the program's display name and a square 256×256 logo (`logoUrl`), for showing points balances. Unlike card art, these logos **are** stored in this repository (`images/programs/`), because most programs publish no stable square icon to link to. Each one's source file and license is listed in `data/programs.json` — most are public-domain logo files from Wikimedia Commons; the rest are official brand assets from the program's own site. The logos are trademarks of their owners and are **not** covered by the MIT license; they're included only to identify the program. If you own a logo and want it removed, open an issue and it will be removed promptly. Programs without a logo are simply missing from `programs`.
+
 ## Disclaimer
 
 Not affiliated with any card issuer. Benefits, terms and enrollment requirements change; always confirm with your issuer. Card and brand names are trademarks of their owners, used here only to identify the products.

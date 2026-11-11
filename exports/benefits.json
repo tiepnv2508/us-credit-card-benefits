@@ -52,6 +52,176 @@
       "BEST_WESTERN": 0.6
     }
   },
+  "programs": {
+    "AEROPLAN": {
+      "name": "Aeroplan",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AEROPLAN.png"
+    },
+    "ALASKA": {
+      "name": "Alaska Atmos Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ALASKA.png"
+    },
+    "ALLEGIANT": {
+      "name": "Allegiant Allways Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ALLEGIANT.png"
+    },
+    "AMERICAN": {
+      "name": "American AAdvantage",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AMERICAN.png"
+    },
+    "AMERICAN_EXPRESS": {
+      "name": "Amex Membership Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AMERICAN_EXPRESS.png"
+    },
+    "AMTRAK": {
+      "name": "Amtrak Guest Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AMTRAK.png"
+    },
+    "ANA": {
+      "name": "ANA Mileage Club",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ANA.png"
+    },
+    "AVIOS": {
+      "name": "Avios",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AVIOS.png"
+    },
+    "BANK_OF_AMERICA": {
+      "name": "Bank of America Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BANK_OF_AMERICA.png"
+    },
+    "BARCLAYS": {
+      "name": "Barclays Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BARCLAYS.png"
+    },
+    "BEST_WESTERN": {
+      "name": "Best Western Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BEST_WESTERN.png"
+    },
+    "BILT": {
+      "name": "Bilt Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BILT.png"
+    },
+    "BREEZE": {
+      "name": "Breeze BreezePoints",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BREEZE.png"
+    },
+    "BREX": {
+      "name": "Brex Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BREX.png"
+    },
+    "CAPITAL_ONE": {
+      "name": "Capital One Miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CAPITAL_ONE.png"
+    },
+    "CARNIVAL": {
+      "name": "Carnival VIFP Club",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CARNIVAL.png"
+    },
+    "CATHAY_PACIFIC": {
+      "name": "Cathay",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CATHAY_PACIFIC.png"
+    },
+    "CHASE": {
+      "name": "Chase Ultimate Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CHASE.png"
+    },
+    "CHOICE": {
+      "name": "Choice Privileges",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CHOICE.png"
+    },
+    "CITI": {
+      "name": "Citi ThankYou Points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CITI.png"
+    },
+    "DELTA": {
+      "name": "Delta SkyMiles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/DELTA.png"
+    },
+    "EMIRATES": {
+      "name": "Emirates Skywards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EMIRATES.png"
+    },
+    "EXPEDIA": {
+      "name": "Expedia One Key",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EXPEDIA.png"
+    },
+    "FRONTIER": {
+      "name": "Frontier Miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/FRONTIER.png"
+    },
+    "HARLEY_DAVIDSON": {
+      "name": "H-D Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HARLEY_DAVIDSON.png"
+    },
+    "HAWAIIAN": {
+      "name": "Hawaiian Atmos Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HAWAIIAN.png"
+    },
+    "HILTON": {
+      "name": "Hilton Honors",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HILTON.png"
+    },
+    "HYATT": {
+      "name": "World of Hyatt",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HYATT.png"
+    },
+    "IHG": {
+      "name": "IHG One Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/IHG.png"
+    },
+    "JETBLUE": {
+      "name": "JetBlue TrueBlue",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/JETBLUE.png"
+    },
+    "KOREAN": {
+      "name": "Korean Air SKYPASS",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/KOREAN.png"
+    },
+    "LATAM": {
+      "name": "LATAM Pass",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/LATAM.png"
+    },
+    "LUFTHANSA": {
+      "name": "Miles & More",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/LUFTHANSA.png"
+    },
+    "NORWEGIAN": {
+      "name": "Norwegian Latitudes Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/NORWEGIAN.png"
+    },
+    "ROYAL_CARIBBEAN": {
+      "name": "Royal Caribbean Crown & Anchor Society",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ROYAL_CARIBBEAN.png"
+    },
+    "SOUTHWEST": {
+      "name": "Southwest Rapid Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SOUTHWEST.png"
+    },
+    "SPIRIT": {
+      "name": "Spirit Free Spirit",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SPIRIT.png"
+    },
+    "UNITED": {
+      "name": "United MileagePlus",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/UNITED.png"
+    },
+    "US_BANK": {
+      "name": "U.S. Bank Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/US_BANK.png"
+    },
+    "VIRGIN": {
+      "name": "Virgin Atlantic Flying Club",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/VIRGIN.png"
+    },
+    "WELLS_FARGO": {
+      "name": "Wells Fargo Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/WELLS_FARGO.png"
+    },
+    "WYNDHAM": {
+      "name": "Wyndham Rewards",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/WYNDHAM.png"
+    }
+  },
   "cards": [
     {
       "id": "amex-amazon-business",
