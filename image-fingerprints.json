@@ -225,8 +225,8 @@
   },
   "barclays-aadvantage-aviator-business": {
     "url": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
-    "sha256": "8126c51a80fc0472a1c8c105562462a30199ed7693bfb857ab80dcac0deb7d8a",
-    "bytes": 38056,
+    "sha256": "64ce60a7354e10f6f9351345575fa1bda94a22d0b35491c6a68af1ae74e67b6b",
+    "bytes": 40188,
     "width": 620,
     "height": 391
   },
@@ -316,10 +316,10 @@
   },
   "barclays-lufthansa-miles-more": {
     "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/LFT_DFW1ZLF1.png",
-    "sha256": "d8a634efd7ee1b0f069e66be2012400080d7f0b961819bdd414f8fd4dbb2b2a2",
-    "bytes": 25880,
-    "width": 230,
-    "height": 157
+    "sha256": "4ff967cae6be9bb4672d9487e66bd6412e30b87c02a36e7d9c2a571a53d2faa0",
+    "bytes": 170870,
+    "width": 958,
+    "height": 654
   },
   "barclays-upromise": {
     "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/UPR_card_rRGB_Upromise_WM_230x157.png",
@@ -372,8 +372,8 @@
   },
   "bilt-palladium": {
     "url": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
-    "sha256": "123da03ab42045e2629b03e540f2dc09d5364c47fcf5b2de472a751c8366a69f",
-    "bytes": 79302,
+    "sha256": "2abf7a7aeab3d917f657384870508193ec02c02102f50436666846791a3d5a75",
+    "bytes": 79591,
     "width": 500,
     "height": 317
   },
@@ -1226,8 +1226,8 @@
   },
   "usbank-business-altitude-connect": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
-    "sha256": "26b3cdc98028dff04f0dc837824e3530f5e2d2425fc4e7e0f383631541aa04ad",
-    "bytes": 26752,
+    "sha256": "b81d85f003913fe6a8a2cf36d0e0233c21da2ca6565d36cd78b3ea4ac7e660cd",
+    "bytes": 38882,
     "width": 400,
     "height": 252
   },
@@ -1240,17 +1240,17 @@
   },
   "usbank-business-essentials": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/illustration-bank-business-essentials-visa-credit-card.webp",
-    "sha256": "9ca874c81873716d705b2fdd059fe75add55ae02080e89c53768bb515e63667f",
-    "bytes": 14018,
-    "width": 600,
-    "height": 379
+    "sha256": "fe01d91c87a62b88467d21f5bf7a83a827d010e86bc8fce233c88e0a7d73d3e0",
+    "bytes": 44898,
+    "width": 400,
+    "height": 252
   },
   "usbank-business-essentials-plus": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/illustration-bank-business-essentials-plus-visa-credit-card.webp",
-    "sha256": "2700bdbad8c5cbd6c2c3119c4fa84163ea7eafc7e38d45ca28686db947091f34",
-    "bytes": 54420,
-    "width": 960,
-    "height": 606
+    "sha256": "3670a957a9ff39c4858e097d3497733251669ee1ca5a5274c34d39bc417942f5",
+    "bytes": 31692,
+    "width": 400,
+    "height": 252
   },
   "usbank-business-leverage": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-leverage-credit-card.webp",
@@ -1261,15 +1261,15 @@
   },
   "usbank-business-shield": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-shield-credit-card.webp",
-    "sha256": "008d4e865ff5a0bd415c69ab099805630dbf296cc27c948324218e214738e100",
-    "bytes": 13160,
+    "sha256": "519c663283d8ee476939e903eca7a2b148b1a70bfb30b36b139aeca154b65075",
+    "bytes": 51992,
     "width": 400,
-    "height": 253
+    "height": 252
   },
   "usbank-business-triple-cash-rewards": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-triple-cash-credit-card.webp",
-    "sha256": "dbdfd65e2f29b586682dc47a881b2f560319d20baeef2b4882c13806559d794c",
-    "bytes": 11690,
+    "sha256": "719792fedca5827fe0cdeefd3fa66a34c138b36644019e52097331fdc8fd59f0",
+    "bytes": 43908,
     "width": 400,
     "height": 252
   },
