@@ -6,7 +6,7 @@
 //   npm run validate   validate + fail if exports/benefits.json is stale (CI)
 //   node scripts/build.mjs --dry   validate only
 
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import Ajv2020 from 'ajv/dist/2020.js';
 import addFormats from 'ajv-formats';
@@ -100,9 +100,37 @@ for (const code of Object.keys(pointValues.values)) {
     process.exit(1);
   }
 }
+// Program logos (data/programs.json → images/programs/). The export
+// carries only the name and the raw GitHub URL; source and license stay
+// in the data file.
+const LOGO_BASE = 'https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/';
+const programData = JSON.parse(readFileSync(join(ROOT, 'data/programs.json'), 'utf8')).programs;
+const programs = {};
+for (const [code, p] of Object.entries(programData).sort(([a], [b]) => a.localeCompare(b))) {
+  if (!codes.has(code)) {
+    console.error(`✗ data/programs.json: no card uses currency ${code}`);
+    process.exit(1);
+  }
+  if (!/^images\/programs\/[A-Z_]+\.png$/.test(p.logo) || !existsSync(join(ROOT, p.logo))) {
+    console.error(`✗ data/programs.json: ${code} logo missing or misnamed (${p.logo})`);
+    process.exit(1);
+  }
+  if (!p.name || !p.source || !p.license) {
+    console.error(`✗ data/programs.json: ${code} needs name, source and license`);
+    process.exit(1);
+  }
+  programs[code] = { name: p.name, logoUrl: LOGO_BASE + p.logo };
+}
 const out =
   JSON.stringify(
-    { schemaVersion: 2, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), pointValues, cards },
+    {
+      schemaVersion: 2,
+      cardCount: cards.length,
+      benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0),
+      pointValues,
+      programs,
+      cards,
+    },
     null,
     2,
   ) + '\n';
