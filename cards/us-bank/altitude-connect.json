@@ -19,6 +19,69 @@
     "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
     "https://www.nerdwallet.com/credit-cards/reviews/us-bank-altitude-connect"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Prepaid, booked in the U.S. Bank Travel Center."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Prepaid, booked in the U.S. Bank Travel Center."
+      },
+      {
+        "category": "travel",
+        "rate": 4,
+        "channel": "any",
+        "note": "Travel merchant codes: airlines, hotels, car rental, taxis/limos, trains, cruises. Travel Center bookings earn 5X instead."
+      },
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 1000,
+          "period": "quarter"
+        },
+        "note": "$1,000 cap combined with EV charging; then 1X. Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 1000,
+          "period": "quarter"
+        },
+        "note": "$1,000 cap combined with gas; then 1X. Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Restaurants, fast food and bars."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "streaming",
+        "rate": 2,
+        "channel": "any",
+        "note": "Qualifying streaming services on U.S. Bank's list."
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

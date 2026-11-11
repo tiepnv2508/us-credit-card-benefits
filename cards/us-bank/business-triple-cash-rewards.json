@@ -19,6 +19,54 @@
     "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
     "https://www.nerdwallet.com/business/credit-cards/reviews/us-bank-business-triple-cash-rewards-world-elite"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "note": "Transactions of $200 or less. Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 3,
+        "channel": "any",
+        "note": "Transactions of $200 or less. Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "office_supplies",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "phone_internet",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Cell phone service providers"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "Restaurants and restaurant delivery."
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Prepaid, booked in the U.S. Bank Travel Center."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Prepaid, booked in the U.S. Bank Travel Center."
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

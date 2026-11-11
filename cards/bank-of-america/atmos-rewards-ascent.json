@@ -17,8 +17,53 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.alaskaair.com/atmosrewards/content/credit-cards/benefits/visa-ascent",
-    "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/"
+    "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/",
+    "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4081060&productoffercode=RS&locale=en_US"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "10% relationship bonus on points earned if the primary or joint cardholder has a qualifying Bank of America deposit or Merrill account. Auto-enrolled in Atmos Rewards Dining (Rewards Network): 1 point per $2 at participating restaurants.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Alaska Airlines and Hawaiian Airlines",
+        "note": "Tickets, flight subscriptions, inflight food/drink, lounge memberships, cargo, vacation packages booked directly with Alaska/Hawaiian."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "note": "Service stations, fuel dispensers, marinas, fuel dealers."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "streaming",
+        "rate": 2,
+        "channel": "any",
+        "note": "Cable, satellite and select streaming services; digital media (books, movies, music)."
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any",
+        "note": "Local commuter transit incl. ferries, passenger rail, buses, taxis/limousines, tolls and bridge fees."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

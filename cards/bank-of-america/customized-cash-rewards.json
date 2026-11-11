@@ -16,7 +16,47 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+    "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079537&productoffercode=8H&locale=en_US"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "3% choice and 2% grocery/wholesale share one $2,500 quarterly cap, then 1%. New accounts: extra 3% on the choice category for 365 days (6% total, same cap). BofA Rewards members earn a 10%–75% bonus (not on the first-year bonus).",
+    "rates": [
+      {
+        "category": "chosen_category",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "One of: gas/EV charging (default), online shopping, dining, travel, drug stores, home improvement/furnishings",
+        "cap": {
+          "amount": 2500,
+          "period": "quarter"
+        },
+        "note": "Change once per calendar month in Online/Mobile Banking. Online shopping incl. cable, internet, phone plans, streaming (online/app only). Cap shared with 2% grocery/wholesale."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2500,
+          "period": "quarter"
+        },
+        "note": "Grocery stores, supermarkets, meat/seafood, dairy, candy stores, bakeries; excludes superstores. $2,500 cap shared with choice category and wholesale clubs."
+      },
+      {
+        "category": "wholesale_clubs",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2500,
+          "period": "quarter"
+        },
+        "note": "$2,500 quarterly cap shared with the choice category and grocery stores."
+      }
+    ]
+  },
   "benefits": []
 }

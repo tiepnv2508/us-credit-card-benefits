@@ -18,5 +18,12 @@
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.25,
+    "lastVerified": "2026-11-11",
+    "notes": "1.529% on all purchases when the Upromise account is linked to an eligible College Savings Plan or Trump Account (530A). Separate: up to $250/yr cash back on gift cards at MyGiftCardsPlus.",
+    "rates": []
+  },
   "benefits": []
 }

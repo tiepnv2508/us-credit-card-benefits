@@ -18,6 +18,47 @@
   "sources": [
     "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 2000,
+          "period": "quarter"
+        },
+        "note": "Restaurants, fast food, bars, takeout and delivery; 1X after the cap."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes discount stores/supercenters and wholesale clubs. Gas at grocery stores earns 1X."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes discount stores/supercenters and wholesale clubs."
+      },
+      {
+        "category": "streaming",
+        "rate": 2,
+        "channel": "any",
+        "note": "Qualifying streaming services on U.S. Bank's list."
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

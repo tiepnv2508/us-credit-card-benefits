@@ -18,5 +18,46 @@
   "sources": [
     "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Stays at participating Choice Hotels, and Choice Privileges point purchases",
+        "note": "Stays billed by the Choice hotel, booked via choicehotels.com, the hotel or the Choice Hotels Service Center."
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "ev_charging",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "phone_internet",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Landline and cell phone providers"
+      },
+      {
+        "category": "other",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Home improvement, hardware, garden, furniture and appliance stores; contractors"
+      }
+    ]
+  },
   "benefits": []
 }

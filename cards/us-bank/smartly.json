@@ -18,5 +18,12 @@
   "sources": [
     "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 2,
+    "lastVerified": "2026-11-11",
+    "notes": "With a Smartly Savings account plus 30-day avg Smartly Checking/Safe Debit balance: $10k-$49,999 2.5%, $50k-$99,999 3%, $100k+ 4%, on the first $10,000 of eligible purchases per billing cycle. Rates when redeemed to a U.S. Bank deposit account.",
+    "rates": []
+  },
   "benefits": []
 }

@@ -16,7 +16,37 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards"
+    "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards",
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/terms-and-conditions/?campaignid=4078728&productoffercode=BS&locale=en_US"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "3% choice and 2% dining share one $50,000 calendar-year cap, then 1%. Preferred Rewards for Business members (with a BofA business checking account) earn 25%/50%/75% more by tier (Gold/Platinum/Platinum Honors).",
+    "rates": [
+      {
+        "category": "chosen_category",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "One of: gas/EV charging (default), office supply, travel, TV/telecom & wireless, computer services, consulting",
+        "cap": {
+          "amount": 50000,
+          "period": "year"
+        },
+        "note": "Change once per calendar month in Business Advantage 360 or the Mobile app. $50,000 calendar-year cap shared with 2% dining."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 50000,
+          "period": "year"
+        },
+        "note": "Excludes bakeries, coffee shops and grocery stores. $50,000 calendar-year cap shared with the choice category."
+      }
+    ]
+  },
   "benefits": []
 }

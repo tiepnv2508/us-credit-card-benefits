@@ -14,7 +14,26 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.discover.com/credit-cards/",
-    "https://www.discover.com/credit-cards/student-credit-card/it-card/"
+    "https://www.discover.com/credit-cards/student-credit-card/it-card/",
+    "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "New cardmembers: Cashback Match doubles all cash back earned in the first 365 days (one-time promo, may not be offered in future).",
+    "rates": [
+      {
+        "category": "rotating",
+        "rate": 5,
+        "channel": "any",
+        "cap": {
+          "amount": 1500,
+          "period": "quarter"
+        },
+        "note": "Activate each quarter; $1,500 is combined across that quarter's categories (see the 5% calendar), then 1%."
+      }
+    ]
+  },
   "benefits": []
 }

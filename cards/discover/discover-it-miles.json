@@ -16,5 +16,12 @@
     "https://www.discover.com/credit-cards/",
     "https://www.discover.com/credit-cards/travel/"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-11",
+    "notes": "New cardmembers: Discover Match doubles all miles earned in the first 365 days (one-time promo, may not be offered in future). 100 miles = $1.",
+    "rates": []
+  },
   "benefits": []
 }

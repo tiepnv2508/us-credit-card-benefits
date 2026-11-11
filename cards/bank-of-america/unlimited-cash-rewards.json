@@ -15,7 +15,15 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4082058&productoffercode=6E&locale=en_US"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-11",
+    "notes": "Unlimited 1.5% on all purchases, no categories or caps. BofA Rewards members earn 10%–75% more cash back on every purchase (relationship bonus by tier); base rates shown.",
+    "rates": []
+  },
   "benefits": []
 }

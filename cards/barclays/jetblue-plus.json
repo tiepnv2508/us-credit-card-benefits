@@ -16,8 +16,36 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/"
+    "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
+    "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc48255"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "direct",
+        "merchants": "JetBlue, JetBlue Vacations and TrueBlue Travel (truebluetravel.com)",
+        "note": "Billed by JetBlue/JetBlue Vacations via their own channels; buying points excluded. TrueBlue Travel excludes pay-later hotels, insurance and fees."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Restaurants, bars and fast food."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Grocery stores and supermarkets; Target and Walmart generally don't qualify."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "anniversary-points",

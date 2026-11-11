@@ -18,5 +18,11 @@
   "sources": [
     "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 2,
+    "lastVerified": "2026-11-11",
+    "rates": []
+  },
   "benefits": []
 }

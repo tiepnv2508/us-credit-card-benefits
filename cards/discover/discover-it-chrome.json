@@ -16,5 +16,43 @@
     "https://www.discover.com/credit-cards/",
     "https://www.discover.com/credit-cards/cash-back/chrome/"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "New cardmembers: Cashback Match doubles all cash back earned in the first 365 days (one-time promo, may not be offered in future).",
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 1000,
+          "period": "quarter"
+        },
+        "note": "Stand-alone gas stations; ones tied to supermarkets, supercenters or wholesale clubs may not qualify. $1,000 cap combined with restaurants per calendar quarter, then 1%."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 1000,
+          "period": "quarter"
+        },
+        "note": "Some public EV charging stations (counted as gas). $1,000 cap combined with gas and restaurants per calendar quarter, then 1%."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 1000,
+          "period": "quarter"
+        },
+        "note": "Includes restaurant delivery; restaurants inside hotels or stores may not qualify. U.S. merchants only. $1,000 cap combined with gas per calendar quarter, then 1%."
+      }
+    ]
+  },
   "benefits": []
 }
