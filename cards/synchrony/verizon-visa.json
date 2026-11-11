@@ -16,7 +16,44 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.verizon.com/financial-services/verizon-visa-card/"
+    "https://www.verizon.com/financial-services/verizon-visa-card/",
+    "https://www.verizon.com/support/verizon-visa-card-rewards-legal/"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "Earns Verizon Dollars, not cash. No limit on earning. Verizon Wireless/Fios bill payments earn 1%.",
+    "rates": [
+      {
+        "category": "groceries",
+        "rate": 4,
+        "channel": "any"
+      },
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any"
+      },
+      {
+        "category": "ev_charging",
+        "rate": 4,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "note": "Restaurants, including take-out and delivery."
+      },
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Verizon stores, Verizon online/phone, exclusive Verizon Authorized Retailers",
+        "note": "Devices and accessories; excludes Verizon bill payment (1%)."
+      }
+    ]
+  },
   "benefits": []
 }

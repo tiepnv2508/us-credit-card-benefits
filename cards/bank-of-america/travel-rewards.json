@@ -16,7 +16,22 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079333&productoffercode=75&locale=en_US"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-11",
+    "notes": "BofA Rewards members earn 10%–75% more points on every purchase (relationship bonus by tier); base rates shown.",
+    "rates": [
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "note": "Booked through the Bank of America Travel Center; no limit."
+      }
+    ]
+  },
   "benefits": []
 }

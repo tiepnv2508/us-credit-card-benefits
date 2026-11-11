@@ -18,6 +18,39 @@
   "sources": [
     "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "any"
+      },
+      {
+        "category": "flights",
+        "rate": 4,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "car_rental",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Timeshares, cruise lines, travel agencies, discount travel sites, campgrounds"
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

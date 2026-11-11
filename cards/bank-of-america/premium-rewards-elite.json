@@ -17,8 +17,29 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
-    "https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/"
+    "https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079322&productoffercode=R9&locale=en_US"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1.5,
+    "lastVerified": "2026-11-11",
+    "notes": "Travel and dining are one unlimited 2X category. BofA Rewards members earn 10%–75% more points on every purchase (relationship bonus by tier); base rates shown.",
+    "rates": [
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Restaurants incl. fast food, caterers, bars and taverns."
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "any",
+        "note": "Airlines, hotels, car rental, cruises, travel agencies, trains, buses, taxis, ferries, parking, tolls, attractions. Excludes in-flight and duty-free purchases."
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

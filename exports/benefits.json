@@ -4558,8 +4558,53 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.alaskaair.com/atmosrewards/content/credit-cards/benefits/visa-ascent",
-        "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/"
+        "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/",
+        "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4081060&productoffercode=RS&locale=en_US"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "10% relationship bonus on points earned if the primary or joint cardholder has a qualifying Bank of America deposit or Merrill account. Auto-enrolled in Atmos Rewards Dining (Rewards Network): 1 point per $2 at participating restaurants.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Alaska Airlines and Hawaiian Airlines",
+            "note": "Tickets, flight subscriptions, inflight food/drink, lounge memberships, cargo, vacation packages booked directly with Alaska/Hawaiian."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "Service stations, fuel dispensers, marinas, fuel dealers."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "note": "Cable, satellite and select streaming services; digital media (books, movies, music)."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any",
+            "note": "Local commuter transit incl. ferries, passenger rail, buses, taxis/limousines, tolls and bridge fees."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -4643,8 +4688,37 @@
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",
         "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-summit-visa-infinite-card/",
-        "https://www.nerdwallet.com/credit-cards/learn/benefits-of-the-atmos-rewards-summit-card"
+        "https://www.nerdwallet.com/credit-cards/learn/benefits-of-the-atmos-rewards-summit-card",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4081112&productoffercode=S2&locale=en_US"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "10% relationship bonus on points earned if the primary or joint cardholder has a qualifying Bank of America deposit or Merrill account. Auto-enrolled in Atmos Rewards Dining (Rewards Network): 1 point per $2 at participating restaurants.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Alaska Airlines and Hawaiian Airlines",
+            "note": "Tickets, flight subscriptions, inflight food/drink, lounge memberships, cargo, vacation packages booked directly with Alaska/Hawaiian."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Caterers, restaurants, bars, lounges, nightclubs, fast food."
+          },
+          {
+            "category": "other",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Foreign transactions only",
+            "note": "Purchases in a foreign currency, or in US dollars made or processed outside the US and US territories."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -4745,8 +4819,38 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards",
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/terms-and-conditions/?campaignid=4078728&productoffercode=BS&locale=en_US"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "3% choice and 2% dining share one $50,000 calendar-year cap, then 1%. Preferred Rewards for Business members (with a BofA business checking account) earn 25%/50%/75% more by tier (Gold/Platinum/Platinum Honors).",
+        "rates": [
+          {
+            "category": "chosen_category",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "One of: gas/EV charging (default), office supply, travel, TV/telecom & wireless, computer services, consulting",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "note": "Change once per calendar month in Business Advantage 360 or the Mobile app. $50,000 calendar-year cap shared with 2% dining."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "note": "Excludes bakeries, coffee shops and grocery stores. $50,000 calendar-year cap shared with the choice category."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -4808,8 +4912,48 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+        "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079537&productoffercode=8H&locale=en_US"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "3% choice and 2% grocery/wholesale share one $2,500 quarterly cap, then 1%. New accounts: extra 3% on the choice category for 365 days (6% total, same cap). BofA Rewards members earn a 10%–75% bonus (not on the first-year bonus).",
+        "rates": [
+          {
+            "category": "chosen_category",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "One of: gas/EV charging (default), online shopping, dining, travel, drug stores, home improvement/furnishings",
+            "cap": {
+              "amount": 2500,
+              "period": "quarter"
+            },
+            "note": "Change once per calendar month in Online/Mobile Banking. Online shopping incl. cable, internet, phone plans, streaming (online/app only). Cap shared with 2% grocery/wholesale."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2500,
+              "period": "quarter"
+            },
+            "note": "Grocery stores, supermarkets, meat/seafood, dairy, candy stores, bakeries; excludes superstores. $2,500 cap shared with choice category and wholesale clubs."
+          },
+          {
+            "category": "wholesale_clubs",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2500,
+              "period": "quarter"
+            },
+            "note": "$2,500 quarterly cap shared with the choice category and grocery stores."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -4892,8 +5036,29 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
-        "https://onemileatatime.com/guides/premium-rewards-card-airline-credit/"
+        "https://onemileatatime.com/guides/premium-rewards-card-airline-credit/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079485&productoffercode=UN&locale=en_US"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1.5,
+        "lastVerified": "2026-11-11",
+        "notes": "Travel and dining are one unlimited 2X category. BofA Rewards members earn 10%–75% more points on every purchase (relationship bonus by tier); base rates shown.",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants incl. fast food, bars and taverns."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "any",
+            "note": "Airlines, hotels, car rental, cruises, travel agencies, trains, buses, taxis, ferries, parking, tolls, attractions. Excludes in-flight and duty-free purchases."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -4951,8 +5116,29 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
-        "https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/"
+        "https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079322&productoffercode=R9&locale=en_US"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1.5,
+        "lastVerified": "2026-11-11",
+        "notes": "Travel and dining are one unlimited 2X category. BofA Rewards members earn 10%–75% more points on every purchase (relationship bonus by tier); base rates shown.",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants incl. fast food, caterers, bars and taverns."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "any",
+            "note": "Airlines, hotels, car rental, cruises, travel agencies, trains, buses, taxis, ferries, parking, tolls, attractions. Excludes in-flight and duty-free purchases."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -5152,8 +5338,23 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+        "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4079333&productoffercode=75&locale=en_US"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1.5,
+        "lastVerified": "2026-11-11",
+        "notes": "BofA Rewards members earn 10%–75% more points on every purchase (relationship bonus by tier); base rates shown.",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "note": "Booked through the Bank of America Travel Center; no limit."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5172,8 +5373,16 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+        "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+        "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4082058&productoffercode=6E&locale=en_US"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-11-11",
+        "notes": "Unlimited 1.5% on all purchases, no categories or caps. BofA Rewards members earn 10%–75% more cash back on every purchase (relationship bonus by tier); base rates shown.",
+        "rates": []
+      },
       "benefits": []
     },
     {
@@ -5311,8 +5520,36 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/"
+        "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/",
+        "https://cards.barclaycardus.com/banking/credit-card/aarp/mastercard-world/co-brand-partner-site/f4556161-509f-4c39-9c6c-757c24490e9d/",
+        "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc48294"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts.",
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "note": "Fuel dispensers and service stations."
+          },
+          {
+            "category": "drugstores",
+            "rate": 3,
+            "channel": "any",
+            "note": "Excludes Target and Walmart; warehouse clubs, grocery and discount stores generally don't qualify."
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Medical: doctors, dentists, hospitals, optical, hearing aids, labs and care facilities"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5609,8 +5846,36 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://cards.barclaycardus.com/banking/cards/jetblue-card/"
+        "https://cards.barclaycardus.com/banking/cards/jetblue-card/",
+        "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc48257"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "JetBlue, JetBlue Vacations and TrueBlue Travel (truebluetravel.com)",
+            "note": "Billed by JetBlue/JetBlue Vacations via their own channels; buying points excluded. TrueBlue Travel excludes pay-later hotels, insurance and fees."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, bars and fast food."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Grocery stores and supermarkets; Target and Walmart generally don't qualify."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5684,8 +5949,36 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/"
+        "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
+        "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc48255"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "direct",
+            "merchants": "JetBlue, JetBlue Vacations and TrueBlue Travel (truebluetravel.com)",
+            "note": "Billed by JetBlue/JetBlue Vacations via their own channels; buying points excluded. TrueBlue Travel excludes pay-later hotels, insurance and fees."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, bars and fast food."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Grocery stores and supermarkets; Target and Walmart generally don't qualify."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -5916,6 +6209,13 @@
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.25,
+        "lastVerified": "2026-11-11",
+        "notes": "1.529% on all purchases when the Upromise account is linked to an eligible College Savings Plan or Trump Account (530A). Separate: up to $250/yr cash back on gift cards at MyGiftCardsPlus.",
+        "rates": []
+      },
       "benefits": []
     },
     {
@@ -6033,8 +6333,80 @@
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-plus-card/",
         "https://www.wyndhamrewardscreditcard.com/",
-        "https://www.doctorofcredit.com/barclays-refreshes-wyndham-personal-business-cards-increased-fees-added-credits-changed-points-earning/"
+        "https://www.doctorofcredit.com/barclays-refreshes-wyndham-personal-business-cards-increased-fees-added-credits-changed-points-earning/",
+        "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc49153"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts. Timeshare down payments earn nothing.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Participating Hotels by Wyndham, incl. Wyndham Travel Bundles",
+            "note": "Folio purchases; direct booking not required. Excludes Echo Suites, WaterWalk unfurnished suites and non-participating hotels."
+          },
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Wyndham Destinations resorts, timeshare maintenance fees and loan payments",
+            "note": "Club Wyndham, WorldMark, Margaritaville Vacation Club, Shell Vacations Club resorts not in the Trademark Collection."
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "note": "Restaurants and fast food."
+          },
+          {
+            "category": "groceries",
+            "rate": 4,
+            "channel": "any",
+            "note": "Excludes Target, Walmart, warehouse clubs, drugstores and discount stores."
+          },
+          {
+            "category": "flights",
+            "rate": 4,
+            "channel": "any",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          },
+          {
+            "category": "car_rental",
+            "rate": 4,
+            "channel": "any",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          },
+          {
+            "category": "rideshare",
+            "rate": 4,
+            "channel": "any",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          },
+          {
+            "category": "transit",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Tolls and trains",
+            "note": "Part of the 4X travel category (airfare, car rental, rideshare, gas, EV charging, tolls, trains)."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -16613,8 +16985,28 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.discover.com/credit-cards/"
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/cash-back/it-card.html",
+        "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "New cardmembers: Cashback Match doubles all cash back earned in the first 365 days (one-time promo, may not be offered in future).",
+        "rates": [
+          {
+            "category": "rotating",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 1500,
+              "period": "quarter"
+            },
+            "note": "Activate each quarter; $1,500 is combined across that quarter's categories (see the 5% calendar), then 1%."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -16634,6 +17026,44 @@
         "https://www.discover.com/credit-cards/",
         "https://www.discover.com/credit-cards/cash-back/chrome/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "New cardmembers: Cashback Match doubles all cash back earned in the first 365 days (one-time promo, may not be offered in future).",
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 1000,
+              "period": "quarter"
+            },
+            "note": "Stand-alone gas stations; ones tied to supermarkets, supercenters or wholesale clubs may not qualify. $1,000 cap combined with restaurants per calendar quarter, then 1%."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 1000,
+              "period": "quarter"
+            },
+            "note": "Some public EV charging stations (counted as gas). $1,000 cap combined with gas and restaurants per calendar quarter, then 1%."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 1000,
+              "period": "quarter"
+            },
+            "note": "Includes restaurant delivery; restaurants inside hotels or stores may not qualify. U.S. merchants only. $1,000 cap combined with gas per calendar quarter, then 1%."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -16653,6 +17083,13 @@
         "https://www.discover.com/credit-cards/",
         "https://www.discover.com/credit-cards/travel/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1.5,
+        "lastVerified": "2026-11-11",
+        "notes": "New cardmembers: Discover Match doubles all miles earned in the first 365 days (one-time promo, may not be offered in future). 100 miles = $1.",
+        "rates": []
+      },
       "benefits": []
     },
     {
@@ -16688,8 +17125,27 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.discover.com/credit-cards/",
-        "https://www.discover.com/credit-cards/student-credit-card/it-card/"
+        "https://www.discover.com/credit-cards/student-credit-card/it-card/",
+        "https://www.discover.com/credit-cards/cash-back/cashback-calendar.html"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "New cardmembers: Cashback Match doubles all cash back earned in the first 365 days (one-time promo, may not be offered in future).",
+        "rates": [
+          {
+            "category": "rotating",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 1500,
+              "period": "quarter"
+            },
+            "note": "Activate each quarter; $1,500 is combined across that quarter's categories (see the 5% calendar), then 1%."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -17345,8 +17801,45 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.verizon.com/financial-services/verizon-visa-card/"
+        "https://www.verizon.com/financial-services/verizon-visa-card/",
+        "https://www.verizon.com/support/verizon-visa-card-rewards-legal/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Earns Verizon Dollars, not cash. No limit on earning. Verizon Wireless/Fios bill payments earn 1%.",
+        "rates": [
+          {
+            "category": "groceries",
+            "rate": 4,
+            "channel": "any"
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any"
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "note": "Restaurants, including take-out and delivery."
+          },
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Verizon stores, Verizon online/phone, exclusive Verizon Authorized Retailers",
+            "note": "Devices and accessories; excludes Verizon bill payment (1%)."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -17461,6 +17954,69 @@
         "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
         "https://www.nerdwallet.com/credit-cards/reviews/us-bank-altitude-connect"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Prepaid, booked in the U.S. Bank Travel Center."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Prepaid, booked in the U.S. Bank Travel Center."
+          },
+          {
+            "category": "travel",
+            "rate": 4,
+            "channel": "any",
+            "note": "Travel merchant codes: airlines, hotels, car rental, taxis/limos, trains, cruises. Travel Center bookings earn 5X instead."
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 1000,
+              "period": "quarter"
+            },
+            "note": "$1,000 cap combined with EV charging; then 1X. Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 1000,
+              "period": "quarter"
+            },
+            "note": "$1,000 cap combined with gas; then 1X. Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, fast food and bars."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "note": "Qualifying streaming services on U.S. Bank's list."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -17517,6 +18073,47 @@
       "sources": [
         "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 2000,
+              "period": "quarter"
+            },
+            "note": "Restaurants, fast food, bars, takeout and delivery; 1X after the cap."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes discount stores/supercenters and wholesale clubs. Gas at grocery stores earns 1X."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "note": "Qualifying streaming services on U.S. Bank's list."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -17857,6 +18454,54 @@
         "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
         "https://www.nerdwallet.com/business/credit-cards/reviews/us-bank-business-triple-cash-rewards-world-elite"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "note": "Transactions of $200 or less. Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any",
+            "note": "Transactions of $200 or less. Excludes discount stores/supercenters and wholesale clubs."
+          },
+          {
+            "category": "office_supplies",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "phone_internet",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Cell phone service providers"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Restaurants and restaurant delivery."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Prepaid, booked in the U.S. Bank Travel Center."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Prepaid, booked in the U.S. Bank Travel Center."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -17895,6 +18540,37 @@
       "sources": [
         "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "chosen_category",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Two of 12 U.S. Bank options, e.g. utilities, TV/internet/streaming, cell phone, fast food",
+            "cap": {
+              "amount": 2000,
+              "period": "quarter"
+            },
+            "note": "Others: department, electronics, sporting goods, furniture, select clothing stores; movie theaters; ground transportation; gyms. Enroll each quarter or all earns 1%. Cap combined."
+          },
+          {
+            "category": "chosen_category",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "One of: grocery stores/delivery, restaurants, gas & EV charging stations",
+            "note": "Choose each quarter. Grocery and gas exclude discount stores/supercenters and wholesale clubs; gas at grocery stores earns 1%."
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid air, hotel and car reservations in the U.S. Bank Travel Center"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -18328,6 +19004,13 @@
       "sources": [
         "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "lastVerified": "2026-11-11",
+        "notes": "With a Smartly Savings account plus 30-day avg Smartly Checking/Safe Debit balance: $10k-$49,999 2.5%, $50k-$99,999 3%, $100k+ 4%, on the first $10,000 of eligible purchases per billing cycle. Rates when redeemed to a U.S. Bank deposit account.",
+        "rates": []
+      },
       "benefits": []
     },
     {
@@ -18349,6 +19032,54 @@
       "sources": [
         "https://www.gemini.com/credit-card"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "notes": "Paid in crypto (your chosen asset) at the value at time of purchase; instant rewards. 10% Vault Rewards are separate merchant offers.",
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 300,
+              "period": "month"
+            },
+            "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 300,
+              "period": "month"
+            },
+            "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+          },
+          {
+            "category": "transit",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 300,
+              "period": "month"
+            },
+            "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -18370,6 +19101,12 @@
       "sources": [
         "https://creditcards.wellsfargo.com/active-cash-credit-card/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "lastVerified": "2026-11-11",
+        "rates": []
+      },
       "benefits": []
     },
     {
@@ -18413,6 +19150,52 @@
       "sources": [
         "https://creditcards.wellsfargo.com/autograph-visa-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "note": "Airlines, hotels, timeshares, car rental, cruise lines, travel agencies, discount travel sites, campgrounds."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 3,
+            "channel": "any",
+            "note": "Rail, taxis, limousines, ferries, tolls, parking."
+          },
+          {
+            "category": "streaming",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Services listed at wellsfargo.com/autographstreaming"
+          },
+          {
+            "category": "phone_internet",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Landline and cell phone providers"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -18434,6 +19217,39 @@
       "sources": [
         "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "flights",
+            "rate": 4,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "car_rental",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Timeshares, cruise lines, travel agencies, discount travel sites, campgrounds"
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -18492,6 +19308,47 @@
       "sources": [
         "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-11-11",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Stays at participating Choice Hotels, and Choice Privileges point purchases",
+            "note": "Stays billed by the Choice hotel, booked via choicehotels.com, the hotel or the Choice Hotels Service Center."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "phone_internet",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Landline and cell phone providers"
+          },
+          {
+            "category": "other",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Home improvement, hardware, garden, furniture and appliance stores; contractors"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -18668,6 +19525,12 @@
       "sources": [
         "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "lastVerified": "2026-11-11",
+        "rates": []
+      },
       "benefits": []
     }
   ]

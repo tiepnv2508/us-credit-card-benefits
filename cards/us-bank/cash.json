@@ -18,5 +18,36 @@
   "sources": [
     "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "rates": [
+      {
+        "category": "chosen_category",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Two of 12 U.S. Bank options, e.g. utilities, TV/internet/streaming, cell phone, fast food",
+        "cap": {
+          "amount": 2000,
+          "period": "quarter"
+        },
+        "note": "Others: department, electronics, sporting goods, furniture, select clothing stores; movie theaters; ground transportation; gyms. Enroll each quarter or all earns 1%. Cap combined."
+      },
+      {
+        "category": "chosen_category",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "One of: grocery stores/delivery, restaurants, gas & EV charging stations",
+        "note": "Choose each quarter. Grocery and gas exclude discount stores/supercenters and wholesale clubs; gas at grocery stores earns 1%."
+      },
+      {
+        "category": "travel",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid air, hotel and car reservations in the U.S. Bank Travel Center"
+      }
+    ]
+  },
   "benefits": []
 }

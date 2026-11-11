@@ -18,8 +18,37 @@
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",
     "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-summit-visa-infinite-card/",
-    "https://www.nerdwallet.com/credit-cards/learn/benefits-of-the-atmos-rewards-summit-card"
+    "https://www.nerdwallet.com/credit-cards/learn/benefits-of-the-atmos-rewards-summit-card",
+    "https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4081112&productoffercode=S2&locale=en_US"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "10% relationship bonus on points earned if the primary or joint cardholder has a qualifying Bank of America deposit or Merrill account. Auto-enrolled in Atmos Rewards Dining (Rewards Network): 1 point per $2 at participating restaurants.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Alaska Airlines and Hawaiian Airlines",
+        "note": "Tickets, flight subscriptions, inflight food/drink, lounge memberships, cargo, vacation packages booked directly with Alaska/Hawaiian."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "Caterers, restaurants, bars, lounges, nightclubs, fast food."
+      },
+      {
+        "category": "other",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Foreign transactions only",
+        "note": "Purchases in a foreign currency, or in US dollars made or processed outside the US and US territories."
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": false,

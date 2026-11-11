@@ -18,5 +18,53 @@
   "sources": [
     "https://www.gemini.com/credit-card"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "Paid in crypto (your chosen asset) at the value at time of purchase; instant rewards. 10% Vault Rewards are separate merchant offers.",
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 300,
+          "period": "month"
+        },
+        "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 300,
+          "period": "month"
+        },
+        "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+      },
+      {
+        "category": "transit",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 300,
+          "period": "month"
+        },
+        "note": "$300 a month combined across gas, EV charging and transit, then 1% that month; resets on the 1st."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any"
+      }
+    ]
+  },
   "benefits": []
 }

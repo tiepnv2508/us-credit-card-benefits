@@ -16,7 +16,35 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/"
+    "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/",
+    "https://cards.barclaycardus.com/banking/credit-card/aarp/mastercard-world/co-brand-partner-site/f4556161-509f-4c39-9c6c-757c24490e9d/",
+    "https://www.barclaycardus.com/applycontent/TnCs.jsp?tc48294"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-11-11",
+    "notes": "Bonus rates may not apply via mobile/wireless card readers, mobile or digital wallets, marketplaces/resellers or third-party payment accounts.",
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "note": "Fuel dispensers and service stations."
+      },
+      {
+        "category": "drugstores",
+        "rate": 3,
+        "channel": "any",
+        "note": "Excludes Target and Walmart; warehouse clubs, grocery and discount stores generally don't qualify."
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Medical: doctors, dentists, hospitals, optical, hearing aids, labs and care facilities"
+      }
+    ]
+  },
   "benefits": []
 }
