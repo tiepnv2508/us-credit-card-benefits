@@ -53,9 +53,33 @@
     }
   },
   "programs": {
+    "ACCOR": {
+      "name": "ALL Accor",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ACCOR.png"
+    },
+    "AER_LINGUS": {
+      "name": "Aer Lingus AerClub",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AER_LINGUS.png"
+    },
+    "AEROMEXICO": {
+      "name": "Aeroméxico Rewards",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AEROMEXICO.png"
+    },
     "AEROPLAN": {
       "name": "Aeroplan",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AEROPLAN.png"
+    },
+    "AIR_INDIA": {
+      "name": "Air India Maharaja Club",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AIR_INDIA.png"
     },
     "ALASKA": {
       "name": "Alaska Atmos Rewards",
@@ -85,6 +109,12 @@
       "name": "Avios",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AVIOS.png"
     },
+    "AVIS": {
+      "name": "Avis Preferred",
+      "kind": "car_rental",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/AVIS.png"
+    },
     "BANK_OF_AMERICA": {
       "name": "Bank of America Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BANK_OF_AMERICA.png"
@@ -109,6 +139,18 @@
       "name": "Brex Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BREX.png"
     },
+    "BRITISH_AIRWAYS": {
+      "name": "British Airways Club",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/BRITISH_AIRWAYS.png"
+    },
+    "CAESARS": {
+      "name": "Caesars Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CAESARS.png"
+    },
     "CAPITAL_ONE": {
       "name": "Capital One Miles",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CAPITAL_ONE.png"
@@ -125,6 +167,12 @@
       "name": "Chase Ultimate Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CHASE.png"
     },
+    "CHINA_AIRLINES": {
+      "name": "China Airlines Dynasty Flyer",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CHINA_AIRLINES.png"
+    },
     "CHOICE": {
       "name": "Choice Privileges",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CHOICE.png"
@@ -133,21 +181,63 @@
       "name": "Citi ThankYou Points",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/CITI.png"
     },
+    "COPA": {
+      "name": "Copa ConnectMiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/COPA.png"
+    },
     "DELTA": {
       "name": "Delta SkyMiles",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/DELTA.png"
+    },
+    "EL_AL": {
+      "name": "EL AL Matmid",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EL_AL.png"
     },
     "EMIRATES": {
       "name": "Emirates Skywards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EMIRATES.png"
     },
+    "ENTERPRISE": {
+      "name": "Enterprise Plus",
+      "kind": "car_rental",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ENTERPRISE.png"
+    },
+    "ETIHAD": {
+      "name": "Etihad Guest",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ETIHAD.png"
+    },
+    "EVA": {
+      "name": "EVA Infinity MileageLands",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EVA.png"
+    },
     "EXPEDIA": {
       "name": "Expedia One Key",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/EXPEDIA.png"
     },
+    "FINNAIR": {
+      "name": "Finnair Plus",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/FINNAIR.png"
+    },
     "FRONTIER": {
       "name": "Frontier Miles",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/FRONTIER.png"
+    },
+    "GHA": {
+      "name": "GHA Discovery",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/GHA.png"
     },
     "HARLEY_DAVIDSON": {
       "name": "H-D Rewards",
@@ -157,6 +247,12 @@
       "name": "Hawaiian Atmos Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HAWAIIAN.png"
     },
+    "HERTZ": {
+      "name": "Hertz Gold Plus Rewards",
+      "kind": "car_rental",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HERTZ.png"
+    },
     "HILTON": {
       "name": "Hilton Honors",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HILTON.png"
@@ -165,9 +261,27 @@
       "name": "World of Hyatt",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/HYATT.png"
     },
+    "I_PREFER": {
+      "name": "I Prefer Hotel Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/I_PREFER.png"
+    },
+    "IBERIA": {
+      "name": "Iberia Club",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/IBERIA.png"
+    },
     "IHG": {
       "name": "IHG One Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/IHG.png"
+    },
+    "JAL": {
+      "name": "JAL Mileage Bank",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/JAL.png"
     },
     "JETBLUE": {
       "name": "JetBlue TrueBlue",
@@ -185,13 +299,61 @@
       "name": "Miles & More",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/LUFTHANSA.png"
     },
+    "MGM": {
+      "name": "MGM Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/MGM.png"
+    },
+    "NATIONAL": {
+      "name": "National Emerald Club",
+      "kind": "car_rental",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/NATIONAL.png"
+    },
     "NORWEGIAN": {
       "name": "Norwegian Latitudes Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/NORWEGIAN.png"
     },
+    "QANTAS": {
+      "name": "Qantas Frequent Flyer",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/QANTAS.png"
+    },
+    "QATAR": {
+      "name": "Qatar Airways Privilege Club",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/QATAR.png"
+    },
+    "RADISSON": {
+      "name": "Radisson Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/RADISSON.png"
+    },
     "ROYAL_CARIBBEAN": {
       "name": "Royal Caribbean Crown & Anchor Society",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/ROYAL_CARIBBEAN.png"
+    },
+    "SAS": {
+      "name": "SAS EuroBonus",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SAS.png"
+    },
+    "SINGAPORE": {
+      "name": "Singapore KrisFlyer",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SINGAPORE.png"
+    },
+    "SONESTA": {
+      "name": "Sonesta Travel Pass",
+      "kind": "hotel",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SONESTA.png"
     },
     "SOUTHWEST": {
       "name": "Southwest Rapid Rewards",
@@ -201,6 +363,30 @@
       "name": "Spirit Free Spirit",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SPIRIT.png"
     },
+    "SUN_COUNTRY": {
+      "name": "Sun Country Rewards",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/SUN_COUNTRY.png"
+    },
+    "TAP": {
+      "name": "TAP Miles&Go",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/TAP.png"
+    },
+    "THAI": {
+      "name": "Thai Royal Orchid Plus",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/THAI.png"
+    },
+    "TURKISH": {
+      "name": "Turkish Miles&Smiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/TURKISH.png"
+    },
     "UNITED": {
       "name": "United MileagePlus",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/UNITED.png"
@@ -209,9 +395,21 @@
       "name": "U.S. Bank Rewards",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/US_BANK.png"
     },
+    "VIETNAM_AIRLINES": {
+      "name": "Vietnam Airlines Lotusmiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/VIETNAM_AIRLINES.png"
+    },
     "VIRGIN": {
       "name": "Virgin Atlantic Flying Club",
       "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/VIRGIN.png"
+    },
+    "VIRGIN_AUSTRALIA": {
+      "name": "Virgin Australia Velocity",
+      "kind": "airline",
+      "unit": "points",
+      "logoUrl": "https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/images/programs/VIRGIN_AUSTRALIA.png"
     },
     "WELLS_FARGO": {
       "name": "Wells Fargo Rewards",

@@ -100,26 +100,35 @@ for (const code of Object.keys(pointValues.values)) {
     process.exit(1);
   }
 }
-// Program logos (data/programs.json → images/programs/). The export
-// carries only the name and the raw GitHub URL; source and license stay
-// in the data file.
+// Programs (data/programs.json → images/programs/). Card currencies get
+// a name and logo; loyalty programs no card here earns (JAL, Accor,
+// Hertz…) also need a kind and unit, so apps can list them for transfers
+// and membership numbers. The export carries name, kind, unit and the raw
+// GitHub logo URL; source and license stay in the data file.
 const LOGO_BASE = 'https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/';
+const PROGRAM_KINDS = new Set(['airline', 'hotel', 'car_rental', 'cruise', 'rail', 'bank', 'other']);
 const programData = JSON.parse(readFileSync(join(ROOT, 'data/programs.json'), 'utf8')).programs;
 const programs = {};
 for (const [code, p] of Object.entries(programData).sort(([a], [b]) => a.localeCompare(b))) {
-  if (!codes.has(code)) {
-    console.error(`✗ data/programs.json: no card uses currency ${code}`);
+  const fail = (msg) => {
+    console.error(`✗ data/programs.json: ${code} ${msg}`);
     process.exit(1);
+  };
+  if (!/^[A-Z_]{2,40}$/.test(code) || code === 'USD') fail('is not a valid program code');
+  if (!p.name || p.name.length > 60) fail('needs a name (60 characters at most)');
+  if (p.kind !== undefined && !PROGRAM_KINDS.has(p.kind)) fail(`has an unknown kind (${p.kind})`);
+  if (p.unit !== undefined && p.unit !== 'points' && p.unit !== 'miles') fail(`has an unknown unit (${p.unit})`);
+  if (!codes.has(code) && (!p.kind || !p.unit)) fail('is earned by no card, so it needs a kind and unit');
+  if (p.logo !== undefined) {
+    if (!/^images\/programs\/[A-Z_]+\.png$/.test(p.logo) || !existsSync(join(ROOT, p.logo))) fail(`logo missing or misnamed (${p.logo})`);
+    if (!p.source || !p.license) fail('logo needs a source and license');
   }
-  if (!/^images\/programs\/[A-Z_]+\.png$/.test(p.logo) || !existsSync(join(ROOT, p.logo))) {
-    console.error(`✗ data/programs.json: ${code} logo missing or misnamed (${p.logo})`);
-    process.exit(1);
-  }
-  if (!p.name || !p.source || !p.license) {
-    console.error(`✗ data/programs.json: ${code} needs name, source and license`);
-    process.exit(1);
-  }
-  programs[code] = { name: p.name, logoUrl: LOGO_BASE + p.logo };
+  programs[code] = {
+    name: p.name,
+    ...(p.kind ? { kind: p.kind } : {}),
+    ...(p.unit ? { unit: p.unit } : {}),
+    ...(p.logo ? { logoUrl: LOGO_BASE + p.logo } : {}),
+  };
 }
 const out =
   JSON.stringify(

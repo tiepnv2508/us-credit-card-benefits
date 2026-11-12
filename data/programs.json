@@ -1,9 +1,41 @@
 {
   "programs": {
+    "ACCOR": {
+      "name": "ALL Accor",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/ACCOR.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Accor_Live_Limitless_logo.svg",
+      "license": "Public domain"
+    },
+    "AEROMEXICO": {
+      "name": "Aeroméxico Rewards",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/AEROMEXICO.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerom%C3%A9xico_wordmark_2024.svg",
+      "license": "Public domain"
+    },
     "AEROPLAN": {
       "name": "Aeroplan",
       "logo": "images/programs/AEROPLAN.png",
       "source": "https://commons.wikimedia.org/wiki/File:Aeroplan_2020_Logo.svg",
+      "license": "Public domain"
+    },
+    "AER_LINGUS": {
+      "name": "Aer Lingus AerClub",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/AER_LINGUS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Aer_Lingus_2022_logo.svg",
+      "license": "Public domain"
+    },
+    "AIR_INDIA": {
+      "name": "Air India Maharaja Club",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/AIR_INDIA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_India_2023.svg",
       "license": "Public domain"
     },
     "ALASKA": {
@@ -48,6 +80,14 @@
       "source": "https://www.avios.com/",
       "license": "Trademark (official brand asset)"
     },
+    "AVIS": {
+      "name": "Avis Preferred",
+      "kind": "car_rental",
+      "unit": "points",
+      "logo": "images/programs/AVIS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:AVIS_logo_2012.svg",
+      "license": "Public domain"
+    },
     "BANK_OF_AMERICA": {
       "name": "Bank of America Rewards",
       "logo": "images/programs/BANK_OF_AMERICA.png",
@@ -84,6 +124,22 @@
       "source": "https://commons.wikimedia.org/wiki/File:Brex_logo_black.svg",
       "license": "Public domain"
     },
+    "BRITISH_AIRWAYS": {
+      "name": "British Airways Club",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/BRITISH_AIRWAYS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:British_Airways_1997_wordmark.svg",
+      "license": "Public domain"
+    },
+    "CAESARS": {
+      "name": "Caesars Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/CAESARS.png",
+      "source": "https://www.caesars.com/content/dam/empire/logos/navigation-logos/caesars-rewards-logo-160px.svg",
+      "license": "Trademark (official brand asset)"
+    },
     "CAPITAL_ONE": {
       "name": "Capital One Miles",
       "logo": "images/programs/CAPITAL_ONE.png",
@@ -108,6 +164,14 @@
       "source": "https://commons.wikimedia.org/wiki/File:Chase_logo_2007.svg",
       "license": "Public domain"
     },
+    "CHINA_AIRLINES": {
+      "name": "China Airlines Dynasty Flyer",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/CHINA_AIRLINES.png",
+      "source": "https://commons.wikimedia.org/wiki/File:China_Airlines_wordmark.svg",
+      "license": "Public domain"
+    },
     "CHOICE": {
       "name": "Choice Privileges",
       "logo": "images/programs/CHOICE.png",
@@ -120,10 +184,26 @@
       "source": "https://commons.wikimedia.org/wiki/File:Citi_logo_March_2023.svg",
       "license": "Public domain"
     },
+    "COPA": {
+      "name": "Copa ConnectMiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/COPA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Copa_airlines_logo.png",
+      "license": "Public domain"
+    },
     "DELTA": {
       "name": "Delta SkyMiles",
       "logo": "images/programs/DELTA.png",
       "source": "https://commons.wikimedia.org/wiki/File:Delta_Air_Lines_2007_symbol.svg",
+      "license": "Public domain"
+    },
+    "EL_AL": {
+      "name": "EL AL Matmid",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/EL_AL.png",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Al_logo.svg",
       "license": "Public domain"
     },
     "EMIRATES": {
@@ -132,10 +212,42 @@
       "source": "https://commons.wikimedia.org/wiki/File:Emirates_Logo.svg",
       "license": "Public domain"
     },
+    "ENTERPRISE": {
+      "name": "Enterprise Plus",
+      "kind": "car_rental",
+      "unit": "points",
+      "logo": "images/programs/ENTERPRISE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Enterprise_Rent-A-Car_Logo.svg",
+      "license": "Public domain"
+    },
+    "ETIHAD": {
+      "name": "Etihad Guest",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/ETIHAD.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Etihad-airways-logo.svg",
+      "license": "Public domain"
+    },
+    "EVA": {
+      "name": "EVA Infinity MileageLands",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/EVA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Logo_EVA_Air_02.svg",
+      "license": "Public domain"
+    },
     "EXPEDIA": {
       "name": "Expedia One Key",
       "logo": "images/programs/EXPEDIA.png",
       "source": "https://commons.wikimedia.org/wiki/File:Expedia_Logo_2023.svg",
+      "license": "Public domain"
+    },
+    "FINNAIR": {
+      "name": "Finnair Plus",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/FINNAIR.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Finnair_Logo.svg",
       "license": "Public domain"
     },
     "FRONTIER": {
@@ -143,6 +255,14 @@
       "logo": "images/programs/FRONTIER.png",
       "source": "https://commons.wikimedia.org/wiki/File:Frontier_Airlines_logo.svg",
       "license": "Public domain"
+    },
+    "GHA": {
+      "name": "GHA Discovery",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/GHA.png",
+      "source": "https://www.ghadiscovery.com/",
+      "license": "Trademark (official brand asset)"
     },
     "HARLEY_DAVIDSON": {
       "name": "H-D Rewards",
@@ -156,6 +276,14 @@
       "source": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltffd0768abb7bb3cd/hawaiian_logo",
       "license": "Trademark (official brand asset)"
     },
+    "HERTZ": {
+      "name": "Hertz Gold Plus Rewards",
+      "kind": "car_rental",
+      "unit": "points",
+      "logo": "images/programs/HERTZ.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Hertz_Car_Rental_logo.svg",
+      "license": "Public domain"
+    },
     "HILTON": {
       "name": "Hilton Honors",
       "logo": "images/programs/HILTON.png",
@@ -168,10 +296,34 @@
       "source": "https://commons.wikimedia.org/wiki/File:Hyatt_Logo.svg",
       "license": "Public domain"
     },
+    "IBERIA": {
+      "name": "Iberia Club",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/IBERIA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Logotipo_de_Iberia.svg",
+      "license": "Public domain"
+    },
     "IHG": {
       "name": "IHG One Rewards",
       "logo": "images/programs/IHG.png",
       "source": "https://commons.wikimedia.org/wiki/File:IHG_Primary_Centred_Logo_Black_RGB.png",
+      "license": "Public domain"
+    },
+    "I_PREFER": {
+      "name": "I Prefer Hotel Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/I_PREFER.png",
+      "source": "https://preferredhotels.com/assets/images/logo/i-prefer-logo-blk.png",
+      "license": "Trademark (official brand asset)"
+    },
+    "JAL": {
+      "name": "JAL Mileage Bank",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/JAL.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Japan_Airlines_%E2%80%9DJAL%22_Wordmark_(2011).svg",
       "license": "Public domain"
     },
     "JETBLUE": {
@@ -198,17 +350,81 @@
       "source": "https://commons.wikimedia.org/wiki/File:Miles_%26_More_Logo.svg",
       "license": "Public domain"
     },
+    "MGM": {
+      "name": "MGM Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/MGM.png",
+      "source": "https://images.contentstack.io/v3/assets/bltc6ce635bc4868eb2/blt8b7d50dc283e0888/logo-mgm-rewards-inverted.svg",
+      "license": "Trademark (official brand asset)"
+    },
+    "NATIONAL": {
+      "name": "National Emerald Club",
+      "kind": "car_rental",
+      "unit": "points",
+      "logo": "images/programs/NATIONAL.png",
+      "source": "https://commons.wikimedia.org/wiki/File:National-Car-Rental-Logo.svg",
+      "license": "Public domain"
+    },
     "NORWEGIAN": {
       "name": "Norwegian Latitudes Rewards",
       "logo": "images/programs/NORWEGIAN.png",
       "source": "https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_2026_Logo.jpg",
       "license": "CC0"
     },
+    "QANTAS": {
+      "name": "Qantas Frequent Flyer",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/QANTAS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Qantas_wordmark_2016.svg",
+      "license": "Public domain"
+    },
+    "QATAR": {
+      "name": "Qatar Airways Privilege Club",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/QATAR.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Qatar_Airways_logo.svg",
+      "license": "Public domain"
+    },
+    "RADISSON": {
+      "name": "Radisson Rewards",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/RADISSON.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Radisson_Rewards_logo.svg",
+      "license": "Public domain"
+    },
     "ROYAL_CARIBBEAN": {
       "name": "Royal Caribbean Crown & Anchor Society",
       "logo": "images/programs/ROYAL_CARIBBEAN.png",
       "source": "https://commons.wikimedia.org/wiki/File:Royal_Caribbean_logo_(2024).svg",
       "license": "Public domain"
+    },
+    "SAS": {
+      "name": "SAS EuroBonus",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/SAS.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Scandinavian_Airlines_logo.svg",
+      "license": "Public domain"
+    },
+    "SINGAPORE": {
+      "name": "Singapore KrisFlyer",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/SINGAPORE.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_wordmark.svg",
+      "license": "Public domain"
+    },
+    "SONESTA": {
+      "name": "Sonesta Travel Pass",
+      "kind": "hotel",
+      "unit": "points",
+      "logo": "images/programs/SONESTA.png",
+      "source": "https://www.sonesta.com/svg/sonesta_internations_logo.svg",
+      "license": "Trademark (official brand asset)"
     },
     "SOUTHWEST": {
       "name": "Southwest Rapid Rewards",
@@ -220,6 +436,38 @@
       "name": "Spirit Free Spirit",
       "logo": "images/programs/SPIRIT.png",
       "source": "https://commons.wikimedia.org/wiki/File:Spirit_Airlines_logo.svg",
+      "license": "Public domain"
+    },
+    "SUN_COUNTRY": {
+      "name": "Sun Country Rewards",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/SUN_COUNTRY.png",
+      "source": "https://www.suncountry.com/assets/icons/logo.svg",
+      "license": "Trademark (official brand asset)"
+    },
+    "TAP": {
+      "name": "TAP Miles&Go",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/TAP.png",
+      "source": "https://commons.wikimedia.org/wiki/File:TAP-Portugal-Logo.svg",
+      "license": "Public domain"
+    },
+    "THAI": {
+      "name": "Thai Royal Orchid Plus",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/THAI.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Thai_Airways_logo.svg",
+      "license": "Public domain"
+    },
+    "TURKISH": {
+      "name": "Turkish Miles&Smiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/TURKISH.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Turkish_Airlines_logo_2019_compact.svg",
       "license": "Public domain"
     },
     "UNITED": {
@@ -234,11 +482,27 @@
       "source": "https://commons.wikimedia.org/wiki/File:US_Bank_logo_2023_color.svg",
       "license": "Public domain"
     },
+    "VIETNAM_AIRLINES": {
+      "name": "Vietnam Airlines Lotusmiles",
+      "kind": "airline",
+      "unit": "miles",
+      "logo": "images/programs/VIETNAM_AIRLINES.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Vietnam_Airlines_2015_wordmark.svg",
+      "license": "Public domain"
+    },
     "VIRGIN": {
       "name": "Virgin Atlantic Flying Club",
       "logo": "images/programs/VIRGIN.png",
       "source": "https://commons.wikimedia.org/wiki/File:Virgin_Atlantic_logo_2018.svg",
       "license": "Public domain"
+    },
+    "VIRGIN_AUSTRALIA": {
+      "name": "Virgin Australia Velocity",
+      "kind": "airline",
+      "unit": "points",
+      "logo": "images/programs/VIRGIN_AUSTRALIA.png",
+      "source": "https://www.velocityfrequentflyer.com/content/dam/vff/base/footer/Velocity_Stacked_Logo_red_and_black.svg",
+      "license": "Trademark (official brand asset)"
     },
     "WELLS_FARGO": {
       "name": "Wells Fargo Rewards",
