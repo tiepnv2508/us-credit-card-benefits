@@ -77,5 +77,11 @@
       "matchVerified": false,
       "notes": "Complimentary 12-month Priority Pass Select membership ($99 value) for one cardholder on the account, auto-renewed yearly while the card is eligible. Lounge visits cost $35 per person (member and guest)."
     }
-  ]
+  ],
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  }
 }

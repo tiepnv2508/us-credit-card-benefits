@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
   "imageUrl": "https://images.ctfassets.net/ubrcxzi8y7m2/6K9D8BhRWWXG9KMYDEsJ5i/810e5253bc00a7155cd709799003703f/img_creditCard.png",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "06b77b791c904e42695dd12747e89cd8"
   ],

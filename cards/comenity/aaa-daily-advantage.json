@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
   "imageUrl": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20daily%205050.png",
+  "signupBonus": {
+    "amount": 100,
+    "spend": 1000,
+    "days": 90,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "eb573cdc20d07fc2d60e8528f73cafb0"
   ],

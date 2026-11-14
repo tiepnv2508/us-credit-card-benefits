@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_cmsig_v-250.png",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 2000,
+    "days": 90,
+    "details": "Plus 100 Experience Points (XP).",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "f2d769efdbe2b9d8734787bc24297be6"
   ],

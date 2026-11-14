@@ -53,5 +53,11 @@
       "matchVerified": false,
       "notes": "Up to $120 in statement credits toward the Global Entry or TSA PreCheck application fee once every 4 years."
     }
-  ]
+  ],
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 2500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  }
 }

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
+  "signupBonus": {
+    "amount": 70000,
+    "spend": 2000,
+    "days": 180,
+    "details": "Plus a Free Night Reward. Limited-time offer, ends 1/13/27.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "0710239dc6fbd92077bce7118572e217"
   ],

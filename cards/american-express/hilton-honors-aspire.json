@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-aspire.png",
+  "signupBonus": {
+    "amount": 200000,
+    "spend": 6000,
+    "days": 180,
+    "details": "Limited-time offer, ends 1/13/27.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "59c1e4c423d078c91e9b7c51d72e893d"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/delta-reserve-business.png",
+  "signupBonus": {
+    "amount": 125000,
+    "spend": 15000,
+    "days": 180,
+    "details": "As high as 125,000; your offer may be lower.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "a8032dfcc9bc6af82eb1a0a487e710b5"
   ],

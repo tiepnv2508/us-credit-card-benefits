@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.amtrak.com/Apply",
   "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-white-cardart.png",
+  "signupBonus": {
+    "amount": 15000,
+    "spend": 1000,
+    "days": 90,
+    "details": "Within the first 3 billing cycles. Plus 5,000 points for adding an authorized user.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "1f13c36d3b8218b1a22d5ab050d30b09"
   ],

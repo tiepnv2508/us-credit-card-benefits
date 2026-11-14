@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
   "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
+  "signupBonus": {
+    "amount": 100000,
+    "spend": 6000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "4d2115812f09d194440ef99b1a5210cd"
   ],
