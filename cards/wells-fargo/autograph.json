@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.wellsfargo.com/autograph-visa-credit-card",
   "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/autograph.webp",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "ce08e0bddd774433cb77be87f5d6af76"
   ],

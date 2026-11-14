@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
   "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/iberia.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "60c2e7b4bc2e526bf38dac5be5f4433c"
   ],

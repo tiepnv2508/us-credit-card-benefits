@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/jetblue-card/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBM_card_NoFee_WM_Flat_230x157.png",
+  "signupBonus": {
+    "amount": 10000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "d760441e47fada8604f084285fbaeb39"
   ],

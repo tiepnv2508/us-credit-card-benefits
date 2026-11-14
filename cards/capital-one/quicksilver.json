@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/credit-cards/quicksilver/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "66f7413248c7f2c61ce1e8008685eac2"
   ],

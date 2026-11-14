@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney_vintage_mickey_Jan_2026.png",
+  "signupBonus": {
+    "amount": 50,
+    "spend": 500,
+    "days": 90,
+    "details": "Statement credit. Plus a $100 Disney gift card on approval.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "12a1578aeb5bfcdd3bc794154ad1f6cc"
   ],

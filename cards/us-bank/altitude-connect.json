@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "9a35bfe5845f7f9909244b1e3549b7e1"
   ],

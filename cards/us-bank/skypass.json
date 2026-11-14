@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.skypassvisa.com/credit/visaSignatureCard.do",
   "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/signature-spv-card.png",
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "824f4be5b9f38164fb8f44522467876e"
   ],

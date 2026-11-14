@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/ARE_card_rRGB_Essential_6146_359x246_Angle_L.png",
+  "signupBonus": {
+    "amount": 100,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "f2fcdd7db964fb3c55f6df704f5678c8"
   ],

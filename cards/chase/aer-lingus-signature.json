@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/aer_lingus_card.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "dcafcac45d86331a7f6b9cfdb980b81e"
   ],

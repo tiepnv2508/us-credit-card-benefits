@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 4000,
+    "days": 90,
+    "details": "Plus 500 Premier qualifying points (PQP) after the first purchase.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "34ab99720941eaa2a1671e5b3a996b19"
   ],

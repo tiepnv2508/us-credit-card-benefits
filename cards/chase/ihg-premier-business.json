@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewards-biz-card2026.png",
+  "signupBonus": {
+    "amount": 190000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "bc82fb7022c639f90b9378410127b9e6"
   ],

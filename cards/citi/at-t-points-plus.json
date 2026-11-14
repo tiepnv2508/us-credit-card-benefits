@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.att.com/deals/att-points-plus-citi/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-att-pointsplus-credit-card/citi-att-pointsplus-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 1000,
+    "days": 90,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "d4bbd57e45d6a6ddb445ddec4e781d7c"
   ],

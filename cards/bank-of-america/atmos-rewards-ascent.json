@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bbt_sigcm_v_atmos_ascent_250.png",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 3000,
+    "days": 90,
+    "details": "Plus 20,000 more points after spending a total of $5,000 in the first 90 days.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "12a1230229f936ee5f7b2d333e796ab8"
   ],

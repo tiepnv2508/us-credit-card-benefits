@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney-inspire.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 1000,
+    "days": 90,
+    "details": "Statement credit. Plus a $300 Disney gift card on approval.",
+    "asOf": "2026-11-14"
+  },
   "lastVerified": "2026-11-01",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"

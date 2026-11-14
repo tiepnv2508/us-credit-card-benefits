@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott_bonvoy_bountiful_card.png",
+  "signupBonus": {
+    "amount": 85000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "fb5e3887059d5d8600b2a5eaed7ddaf7"
   ],

@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/export
 }
 ```
 
-Every card has a stable `id` (`<issuer>-<card>`). Cards with no recurring benefits are still listed (with `benefits: []`) so the file doubles as a card catalog. `signupBonus` and `imageUrl` are optional and may be missing.
+Every card has a stable `id` (`<issuer>-<card>`). Cards with no recurring benefits are still listed (with `benefits: []`) so the file doubles as a card catalog. `signupBonus` and `imageUrl` are optional and may be missing. `signupBonus` is the issuer's public welcome offer on the day in its `asOf` — offers change often and many are targeted, so treat it as a starting value a user can edit, not as what a given cardholder received.
 
 ## Contribute
 

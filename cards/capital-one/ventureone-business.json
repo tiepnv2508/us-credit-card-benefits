@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/small-business/credit-cards/ventureone-business/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-vb-card-art.png",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 4500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "c8d364bb32a8d2f6a359cf57a5e58cde"
   ],

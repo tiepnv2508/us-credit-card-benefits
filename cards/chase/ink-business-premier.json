@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/ink/premier",
   "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/ink-premier.png",
+  "signupBonus": {
+    "amount": 1000,
+    "spend": 10000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "94c9b624738adce05fbe0e5bfc5d620e"
   ],

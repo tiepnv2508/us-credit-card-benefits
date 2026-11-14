@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
+  "signupBonus": {
+    "amount": 70000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "85cd2b7d172e494eefad5b2ab012f21c"
   ],

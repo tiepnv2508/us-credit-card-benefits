@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/credit-cards/ventureone/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "d0298263cc453d34160558a93fd1bcb2"
   ],

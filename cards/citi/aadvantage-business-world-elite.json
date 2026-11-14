@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citibusiness-aadvantage-platinum-select-credit-card/citibusiness-aadvantage-platinum-select-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 5000,
+    "days": 150,
+    "details": "Limited-time offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "f6ff3383cc6c52a81eb4715eb8d5de03"
   ],

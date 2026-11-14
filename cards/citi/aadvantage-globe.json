@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-globe-mastercard/citi-aadvantage-globe-mastercard_306x192.webp",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "c6b04cf07dd821ddcfba3dbe398a4b31"
   ],

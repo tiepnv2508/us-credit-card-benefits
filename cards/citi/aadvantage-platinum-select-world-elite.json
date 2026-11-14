@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-platinum-elite-credit-card/citi-aadvantage-platinum-elite-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 2500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "a497d6ba509538db9e3e4a3e5e313fe9"
   ],

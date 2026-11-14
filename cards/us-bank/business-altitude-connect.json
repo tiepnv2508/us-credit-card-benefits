@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 6000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "1e6ddb097a524ce3b68719ae6c5eb1e8"
   ],

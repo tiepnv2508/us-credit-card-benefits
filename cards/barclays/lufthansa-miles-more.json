@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/LFT_DFW1ZLF1.png",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 3000,
+    "days": 90,
+    "details": "Also requires paying the annual fee in full within the first 90 days.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "fdd9a5b1485ab0f88d0abd28c32e3b89"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-cash-plus-signature-lg.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 1000,
+    "days": 90,
+    "details": "Limited-time offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "78726438553c1f6b63383f3bac6df57b"
   ],

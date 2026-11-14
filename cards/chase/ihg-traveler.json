@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewardscard.png",
+  "signupBonus": {
+    "amount": 125000,
+    "spend": 2000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "2c6c7e215b4a1e791250d1fb48997e02"
   ],

@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/UPR_card_rRGB_Upromise_WM_230x157.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "d0fa846548af110fa31bc7bfa25828df"
   ],

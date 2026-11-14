@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
   "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000284_480x304_straight_withname.png",
+  "signupBonus": {
+    "amount": 250,
+    "spend": 3000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "b628058009b9f1a24093028750e18112"
   ],

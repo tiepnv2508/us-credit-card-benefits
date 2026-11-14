@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_plus_card_New.png",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 1000,
+    "days": 90,
+    "details": "Limited-time offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "32a0c8c7eda25330e2c176589e386d7f"
   ],

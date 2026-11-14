@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
+  "signupBonus": {
+    "amount": 90000,
+    "spend": 5000,
+    "days": 90,
+    "details": "Plus 2,000 Premier qualifying points (PQP).",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "8101f7827e3a1e797b09653f117b72d9"
   ],
