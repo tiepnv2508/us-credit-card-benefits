@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.usbank.com/business-banking/business-credit-cards/business-essentials-plus-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/illustration-bank-business-essentials-plus-visa-credit-card.webp",
+  "signupBonus": {
+    "amount": 1000,
+    "spend": 15000,
+    "days": 150,
+    "details": "Awarded as 100,000 points.",
+    "asOf": "2026-11-14"
+  },
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.usbank.com/business-banking/business-credit-cards.html",

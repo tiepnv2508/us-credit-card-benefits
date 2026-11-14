@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/aadvantage-mile-up-credit-card/aadvantage-mile-up-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 15000,
+    "spend": 500,
+    "days": 90,
+    "details": "Plus a $100 statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "196b33e005dd1bc8e1c505f2bf98a1d1"
   ],

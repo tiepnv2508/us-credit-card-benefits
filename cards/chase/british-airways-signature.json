@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
   "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/british-airways.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "7b06f0b6a307509b71862ffa5933ef0b"
   ],

@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_preferred_card.png",
+  "signupBonus": {
+    "amount": 100000,
+    "spend": 8000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "c80cdb77c3eda940e2a36abb4f943c69"
   ],

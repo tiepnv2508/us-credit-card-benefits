@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihgpremiercardart2026.png",
+  "signupBonus": {
+    "amount": 180000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "40192e08e31f059d91a108ff09ec5dd5"
   ],

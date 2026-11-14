@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-rewards-world-elite-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/EKS_card_Rewards_359x227.png",
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "e33253806e1da76436e527e3c7b6179d"
   ],

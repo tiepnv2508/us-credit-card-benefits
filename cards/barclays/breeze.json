@@ -33,5 +33,11 @@
       "matchVerified": false,
       "notes": "7,500 BreezePoints after every account anniversary with eligible purchases (BreezePoints are worth 1 cent each)."
     }
-  ]
+  ],
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  }
 }

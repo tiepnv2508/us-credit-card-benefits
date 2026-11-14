@@ -17,5 +17,12 @@
   "sources": [
     "https://qatarairways.cardless.com/compare"
   ],
-  "benefits": []
+  "benefits": [],
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 5000,
+    "days": 90,
+    "details": "25,000 Avios after the first transaction, then 25,000 Avios and 150 Qpoints after spending $5,000 in the first 90 days.",
+    "asOf": "2026-11-14"
+  }
 }

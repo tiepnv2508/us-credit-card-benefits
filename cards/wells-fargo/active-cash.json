@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.wellsfargo.com/active-cash-credit-card/",
   "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/active-cash.webp",
+  "signupBonus": {
+    "amount": 100,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "df2960b75b50536daa6e05a33479b198"
   ],

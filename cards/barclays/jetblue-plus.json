@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBE_card_Plus_WE_Flat_230x157.png",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 1000,
+    "days": 90,
+    "details": "Also requires paying the annual fee in full within the first 90 days.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "fafac50a80daae929873eca389fafd15"
   ],

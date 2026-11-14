@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/credit-cards/venture/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venture_cardart_prim_323x203-1.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 4000,
+    "days": 90,
+    "details": "Limited-time offer. Plus $300 to use on Capital One Travel bookings in the first cardholder year.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "4a7a8036e514f187ca7c41b31925251e"
   ],

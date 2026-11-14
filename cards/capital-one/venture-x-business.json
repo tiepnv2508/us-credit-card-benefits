@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/vxb-card-alt-at-2x.png",
+  "signupBonus": {
+    "amount": 150000,
+    "spend": 40000,
+    "days": 120,
+    "details": "Limited-time offer. Plus another 150,000 miles and a $1,000 Capital One Business Travel credit after spending $120,000 in the first 4 months.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "1d2ff07648fdd4b06d89ef0309f1c4cb"
   ],

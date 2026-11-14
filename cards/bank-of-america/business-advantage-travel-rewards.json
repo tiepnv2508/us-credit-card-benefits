@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-travel-rewards",
   "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/travel_rewards_1200x756.png",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 5000,
+    "days": 90,
+    "details": "Online offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "1e75cf9ca2ccded9a621d5e8f5630c3c"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_premier_card.png",
+  "signupBonus": {
+    "amount": 85000,
+    "spend": 2000,
+    "days": 90,
+    "details": "Limited-time offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "76e73a4afe8dfc1f8f1be1e345d7eca8"
   ],

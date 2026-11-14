@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_biz_card.png",
+  "signupBonus": {
+    "amount": 200000,
+    "spend": 30000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "5d8c589d1e7c1294d04fa6e4a2685624"
   ],

@@ -55,5 +55,11 @@
       "matchVerified": false,
       "notes": "Up to $2,400 in statement credits against American Express One AP fees, available in the calendar year AFTER you spend $250,000 on the card in a calendar year. Requires an approved One AP account billed to this card."
     }
-  ]
+  ],
+  "signupBonus": {
+    "amount": 1500,
+    "spend": 50000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  }
 }

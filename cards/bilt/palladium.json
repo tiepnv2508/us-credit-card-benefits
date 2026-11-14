@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.bilt.com/card/palladium",
   "imageUrl": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 4000,
+    "days": 90,
+    "details": "Plus Gold status, and $300 of Bilt Cash on approval. Rent and mortgage payments do not count toward the spend.",
+    "asOf": "2026-11-14"
+  },
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bilt.com/card/palladium",

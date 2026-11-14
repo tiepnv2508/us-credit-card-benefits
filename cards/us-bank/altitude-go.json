@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/altitude-go-visa-signature-credit-card.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "b523a3cc7d6d355737b1c4dda1eb7a04"
   ],

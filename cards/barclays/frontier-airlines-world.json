@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/adobe-dam/frontier/FTF_card_rRGB_Fee_MC_NoBleed_padding.png",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 500,
+    "days": 90,
+    "details": "Also requires paying the annual fee in full within the first 90 days. Plus 10,000 miles when an authorized user is added and makes a purchase in the first 90 days.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "e33d8701c8e81d5befe82ec5ed5cda23"
   ],

@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.schwab.com/credit-cards/platinum-card",
   "imageUrl": "https://www.aexp-static.com/online/myca/shared/summary/cardasset/images/NUS000000367_480x304_STRAIGHT_96.png",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 12000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "7eb93f5f9ab64e1c12b82ec8822c25ef"
   ],

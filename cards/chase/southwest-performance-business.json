@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_performance_biz_card.png",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "682a4f0c425d15b5ca34214378cfc3de"
   ],

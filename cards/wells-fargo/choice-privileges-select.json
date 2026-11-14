@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
   "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/ChoicePrivilegesSelect/WF_Choice_Fee_Card.png",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "c68bed03d88b439b70c905e490757271"
   ],

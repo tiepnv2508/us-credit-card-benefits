@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_priority_card-2.png",
+  "signupBonus": {
+    "amount": 90000,
+    "spend": 3000,
+    "days": 90,
+    "details": "Limited-time offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "169256a9988f3161381ee6a9ebe6667e"
   ],

@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://us.etrade.com/l/morgan-stanley-platinum",
   "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000365_480x304_straight_withname.png",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 12000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "ab55a96910ffc7f31fc1605c99430ec5"
   ],

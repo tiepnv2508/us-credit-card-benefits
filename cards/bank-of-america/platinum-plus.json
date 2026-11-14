@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://business.bankofamerica.com/en/credit-cards/platinum-plus",
   "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/platinum_plus_mc_1200x756.png",
+  "signupBonus": {
+    "amount": 300,
+    "spend": 3000,
+    "days": 90,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "9dce80bda519a8616ca4eb288d7cc693"
   ],

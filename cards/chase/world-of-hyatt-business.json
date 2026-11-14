@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_hyatt_biz_card.png",
+  "signupBonus": {
+    "amount": 70000,
+    "spend": 7000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "0d9d833e7298ab0f1892a4035686fa06"
   ],

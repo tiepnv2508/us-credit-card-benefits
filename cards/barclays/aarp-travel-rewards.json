@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/aarp/card-art/ART_card_rCMY_Travel_WM_5492_359x246_angle_L.png-Medium.png",
+  "signupBonus": {
+    "amount": 100,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "fc80c887a321dde1faa7e9282c813683"
   ],

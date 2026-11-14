@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
   "imageUrl": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-unlimited/card_freedomUtld_V.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 500,
+    "days": 90,
+    "details": "$200 bonus, tracked as 20,000 points.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "3a9ea798ce73485fc8456280fd4b1816"
   ],

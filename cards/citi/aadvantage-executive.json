@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-executive-world-legend-mastercard/citi-aadvantage-executive-world-legend-mastercard_306x192.webp",
+  "signupBonus": {
+    "amount": 80000,
+    "spend": 8000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "3543149f6555df6f7e4974923c55d853"
   ],

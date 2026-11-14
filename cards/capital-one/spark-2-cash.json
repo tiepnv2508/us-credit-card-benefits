@@ -33,5 +33,11 @@
       }
     ]
   },
-  "benefits": []
+  "benefits": [],
+  "signupBonus": {
+    "amount": 1000,
+    "spend": 10000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  }
 }

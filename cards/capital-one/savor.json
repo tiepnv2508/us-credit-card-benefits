@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/credit-cards/savor/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "2d16431e0caee645b420cc3d3255b2ee"
   ],

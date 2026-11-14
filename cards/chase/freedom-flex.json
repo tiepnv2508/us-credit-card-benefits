@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/site-assets/images/freedom_cal_freedom_flex_card.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 500,
+    "days": 90,
+    "details": "$200 bonus, tracked as 20,000 points.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "6ba7f561f6a4f7f2934bec25bd9a3130"
   ],

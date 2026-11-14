@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/cards/carnival-rewards-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/carnival/card-art/SMC_LP_Card_Carnival_447x281.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "eddb365c3098a64170b9e4fb322b2a05"
   ],

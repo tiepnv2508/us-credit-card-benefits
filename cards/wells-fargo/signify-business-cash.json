@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card",
   "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/signify.webp",
+  "signupBonus": {
+    "amount": 500,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "429640c66f9a2e3bd077978aa5a1f0aa"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards",
   "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_1200x756.png",
+  "signupBonus": {
+    "amount": 500,
+    "spend": 5000,
+    "days": 90,
+    "details": "Online offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "a99aa675065459b90144275ac18d9ab1"
   ],
