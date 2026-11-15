@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      # check-offers drives Chrome over a WebSocket; Node 20 has none built in.
+      - run: npm ci
       - id: check
         run: node scripts/check-links.mjs ${{ inputs.accept && '--accept' || '' }}
         continue-on-error: true

@@ -455,6 +455,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-cash.png",
+      "signupBonus": {
+        "amount": 500,
+        "spend": 5000,
+        "days": 90,
+        "details": "As high as $500; your offer may be lower. Statement credit.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "a37efd1da4e7f0d468c87d3b6f021250"
       ],
@@ -495,6 +502,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-plus.png",
+      "signupBonus": {
+        "amount": 50000,
+        "spend": 5000,
+        "days": 90,
+        "details": "As high as 50,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "a851f08b98f839a01a7e8fa367d8b8be"
       ],
@@ -847,6 +861,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-gold.png",
+      "signupBonus": {
+        "amount": 200000,
+        "spend": 15000,
+        "days": 90,
+        "details": "As high as 200,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "191f603ca5af9306d5db0fb208e9a646"
       ],
@@ -1039,6 +1060,12 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-green-rewards.png",
+      "signupBonus": {
+        "amount": 15000,
+        "spend": 3000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "aff8fcfdc6a69cef4936e1e474820516"
       ],
@@ -1700,6 +1727,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/gold-delta-skymiles-business.png",
+      "signupBonus": {
+        "amount": 85000,
+        "spend": 6000,
+        "days": 180,
+        "details": "As high as 85,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "509a09cbd31edd8df85928d044ef7802"
       ],
@@ -3733,6 +3767,12 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/amex-marriott-bonvoy-business.png",
+      "signupBonus": {
+        "amount": 75000,
+        "spend": 6000,
+        "days": 180,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "1129280627d633940e575deabdaa105f"
       ],
@@ -5224,6 +5264,14 @@
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
       "imageUrl": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Summit-Card.png",
+      "signupBonus": {
+        "amount": 100000,
+        "spend": 6000,
+        "days": 90,
+        "details": "Plus a 25,000-point Global Companion Award.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "2878b32104d7bf242496a8af56f33952"
       ],
@@ -6435,6 +6483,14 @@
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/child/hawaiian-hcl-inflight-landing-page/",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/card_HCL_DHR3ZHC1_359x226.png",
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 1000,
+        "days": 90,
+        "details": "Plus 10,000 more points after spending a total of $2,000 in the first 180 days.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "44effaf95f470d31302d6f366207a543"
       ],
@@ -6471,6 +6527,14 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/combo-app/hawaiian-bha-boh---combo-app/",
+      "signupBonus": {
+        "amount": 50000,
+        "spend": 4000,
+        "days": 90,
+        "details": "Also requires paying the annual fee in the first 90 days.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "9cbc127f6a0a485b64a7ddb5ed52d931"
       ],
@@ -6941,6 +7005,12 @@
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earner",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYD-WYZ-Rewards-Earner-VS_noBleed_230x157.png",
+      "signupBonus": {
+        "amount": 45000,
+        "spend": 2000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "6496ff471ffd822105f59ea276547110"
       ],
@@ -6981,6 +7051,13 @@
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earnerbusiness",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/BWY-Earner-Business-Card_VS_noBleed_230x157.png",
+      "signupBonus": {
+        "amount": 45000,
+        "spend": 3000,
+        "days": 90,
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "ba9027fba78b5ca88e4d9471aa9e31bd"
       ],
@@ -7037,6 +7114,13 @@
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earnerplus",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYF-Earner-Plus_VS_noBleed_230x157.png",
+      "signupBonus": {
+        "amount": 45000,
+        "spend": 1000,
+        "days": 90,
+        "details": "Plus 45,000 more points after spending $500 at Hotels by Wyndham in the first 180 days.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "b910f422064772c65840288c632cf900"
       ],
@@ -18452,6 +18536,13 @@
       "discontinued": false,
       "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
       "imageUrl": "https://www.cardless.com/_next/static/media/card-blue-chip.e77ba1d9.png",
+      "signupBonus": {
+        "amount": 15000,
+        "spend": 1000,
+        "days": 90,
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "73015adf7b2ca52331e05203c4ad5462"
       ],
@@ -18473,6 +18564,13 @@
       "discontinued": false,
       "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
       "imageUrl": "https://www.cardless.com/_next/static/media/card-black-chip.7708717e.png",
+      "signupBonus": {
+        "amount": 40000,
+        "spend": 2500,
+        "days": 90,
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "7e578b54e8976a7b9027124c56b2377f"
       ],
@@ -18638,6 +18736,14 @@
       "discontinued": false,
       "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
       "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
+      "signupBonus": {
+        "amount": 40000,
+        "spend": 1500,
+        "days": 90,
+        "details": "As high as 40,000; your offer may be lower. The issuer says only \"qualifying spend\"; $1,500 is what Frequent Miler last saw.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "1b70fa39672eb066b7a3a5092888e7b2"
       ],
@@ -18680,6 +18786,14 @@
       "discontinued": false,
       "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
       "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
+      "signupBonus": {
+        "amount": 80000,
+        "spend": 3000,
+        "days": 90,
+        "details": "As high as 80,000; your offer may be lower. The issuer says only \"qualifying spend\"; $3,000 is what Frequent Miler last saw.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "cf10cfcfab787460b24ecbf8b76f7bdc"
       ],
@@ -20689,6 +20803,14 @@
       "discontinued": false,
       "url": "https://www.expedia.com/one-key-cards",
       "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeyplus_card.png",
+      "signupBonus": {
+        "amount": 350,
+        "spend": 6000,
+        "days": 90,
+        "details": "$350 in OneKeyCash.",
+        "asOf": "2026-11-14",
+        "source": "https://frequentmiler.com/best-credit-card-offers/"
+      },
       "legacyIds": [
         "dfdf46ff6cbfcea7b738c7092e00af78"
       ],

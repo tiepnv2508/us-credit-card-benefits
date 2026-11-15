@@ -133,6 +133,11 @@
         "asOf": {
           "type": "string",
           "format": "date"
+        },
+        "source": {
+          "type": "string",
+          "format": "uri",
+          "description": "Page the offer was read from, only when the issuer's own page could not be read after every method (raw fetch, render, live render, the issuing bank's site). The weekly check re-reads this page instead of `url`."
         }
       }
     },

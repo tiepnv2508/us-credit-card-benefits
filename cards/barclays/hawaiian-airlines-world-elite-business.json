@@ -10,6 +10,14 @@
   "afWaivedFirstYear": false,
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/combo-app/hawaiian-bha-boh---combo-app/",
+  "signupBonus": {
+    "amount": 50000,
+    "spend": 4000,
+    "days": 90,
+    "details": "Also requires paying the annual fee in the first 90 days.",
+    "asOf": "2026-11-14",
+    "source": "https://frequentmiler.com/best-credit-card-offers/"
+  },
   "legacyIds": [
     "9cbc127f6a0a485b64a7ddb5ed52d931"
   ],

@@ -11,6 +11,14 @@
   "discontinued": false,
   "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
   "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 1500,
+    "days": 90,
+    "details": "As high as 40,000; your offer may be lower. The issuer says only \"qualifying spend\"; $1,500 is what Frequent Miler last saw.",
+    "asOf": "2026-11-14",
+    "source": "https://frequentmiler.com/best-credit-card-offers/"
+  },
   "legacyIds": [
     "1b70fa39672eb066b7a3a5092888e7b2"
   ],

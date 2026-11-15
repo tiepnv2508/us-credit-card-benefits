@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/amex-marriott-bonvoy-business.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 6000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "1129280627d633940e575deabdaa105f"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.wyndhamrewardscreditcard.com/#earnerplus",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYF-Earner-Plus_VS_noBleed_230x157.png",
+  "signupBonus": {
+    "amount": 45000,
+    "spend": 1000,
+    "days": 90,
+    "details": "Plus 45,000 more points after spending $500 at Hotels by Wyndham in the first 180 days.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "b910f422064772c65840288c632cf900"
   ],

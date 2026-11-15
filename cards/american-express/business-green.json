@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-green-rewards.png",
+  "signupBonus": {
+    "amount": 15000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "aff8fcfdc6a69cef4936e1e474820516"
   ],
