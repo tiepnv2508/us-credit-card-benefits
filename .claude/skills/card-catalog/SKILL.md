@@ -63,7 +63,7 @@ are leads to go and confirm on the issuer's page, nothing more.
 | lifemiles.com, amtrak.com, virgin.com, aaa.com | Render; both card tiers share one page, so match the snippet to the card name. |
 | wyndhamrewardscreditcard.com | Render shows the points but the spend lines are inside "Introductory Bonus Offer Details" overlays: needs a click (rung 3). |
 | skypassvisa.com | Returns a placeholder to parallel requests; read one page at a time. |
-| alaskaair.com, expedia.com, bestwestern.com, latam.com, rakuten.com | Bot wall or empty render in headless Chrome. Don't try to defeat it; ask the owner for a screenshot. |
+| alaskaair.com, expedia.com, bestwestern.com, latam.com, rakuten.com | Bot wall or empty render in headless Chrome. Don't try to defeat it. First look for the same card on the ISSUING BANK's own site, which often reads fine: Atmos Business is on bankofamerica.com/smallbusiness, One Key on creditcards.wellsfargo.com (start from the bank's card listing and follow its links; guessed addresses mostly miss). Point the card's `url` at the page you read so the weekly check can read it too. Only then ask the owner for a screenshot. |
 
 Search wording varies by issuer: try `after you spend`, `after spending`, `once you spend`, `when you spend`, `if you make at least`, `after making at least`, `Upon spending` before concluding a page has no offer.
 

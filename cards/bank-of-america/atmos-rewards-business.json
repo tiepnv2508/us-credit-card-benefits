@@ -9,13 +9,21 @@
   "annualFee": 95,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards/visa-small-business",
+  "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/alaska-airlines-business-credit-card/",
   "imageUrl": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Business-Card.png",
+  "signupBonus": {
+    "amount": 70000,
+    "spend": 4000,
+    "days": 90,
+    "details": "Plus a $99 Companion Fare (plus taxes and fees from $23). Limited-time online offer.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "9e42d6cf9c6dcfda0cf7d5f5f015285d"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/products/alaska-airlines-business-credit-card/",
     "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/",
     "https://www.nerdwallet.com/business/credit-cards/reviews/atmos-rewards-visa-signature-business",
     "https://www.alaskaair.com/atmosrewards/content/credit-cards/visa-small-business",
