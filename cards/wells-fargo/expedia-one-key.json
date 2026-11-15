@@ -9,8 +9,15 @@
   "annualFee": 0,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.expedia.com/one-key-cards",
+  "url": "https://creditcards.wellsfargo.com/one-key-credit-card/",
   "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeycash_card.png",
+  "signupBonus": {
+    "amount": 250,
+    "spend": 2000,
+    "days": 90,
+    "details": "$250 in OneKeyCash.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "546dccf995e97f42d656d069c95efacf"
   ],
