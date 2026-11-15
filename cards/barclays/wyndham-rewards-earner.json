@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.wyndhamrewardscreditcard.com/#earner",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYD-WYZ-Rewards-Earner-VS_noBleed_230x157.png",
+  "signupBonus": {
+    "amount": 45000,
+    "spend": 2000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "6496ff471ffd822105f59ea276547110"
   ],

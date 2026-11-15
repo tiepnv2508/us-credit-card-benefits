@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "ajv": "^8.17.1",
-    "ajv-formats": "^3.0.1"
+    "ajv-formats": "^3.0.1",
+    "ws": "^8.23.0"
   }
 }

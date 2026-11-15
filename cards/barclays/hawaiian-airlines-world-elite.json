@@ -11,6 +11,14 @@
   "discontinued": false,
   "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/child/hawaiian-hcl-inflight-landing-page/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/card_HCL_DHR3ZHC1_359x226.png",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 1000,
+    "days": 90,
+    "details": "Plus 10,000 more points after spending a total of $2,000 in the first 180 days.",
+    "asOf": "2026-11-14",
+    "source": "https://frequentmiler.com/best-credit-card-offers/"
+  },
   "legacyIds": [
     "44effaf95f470d31302d6f366207a543"
   ],

@@ -11,6 +11,14 @@
   "discontinued": false,
   "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
   "imageUrl": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Summit-Card.png",
+  "signupBonus": {
+    "amount": 100000,
+    "spend": 6000,
+    "days": 90,
+    "details": "Plus a 25,000-point Global Companion Award.",
+    "asOf": "2026-11-14",
+    "source": "https://frequentmiler.com/best-credit-card-offers/"
+  },
   "legacyIds": [
     "2878b32104d7bf242496a8af56f33952"
   ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
   "imageUrl": "https://www.cardless.com/_next/static/media/card-black-chip.7708717e.png",
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 2500,
+    "days": 90,
+    "asOf": "2026-11-14",
+    "source": "https://frequentmiler.com/best-credit-card-offers/"
+  },
   "legacyIds": [
     "7e578b54e8976a7b9027124c56b2377f"
   ],

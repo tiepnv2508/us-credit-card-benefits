@@ -1,5 +1,5 @@
 // Weekly welcome-offer check (CI): for every card with a signupBonus, fetch
-// the issuer page and look for the recorded numbers. Offers change far more
+// the issuer page (or the entry's `source`) and look for the recorded numbers. Offers change far more
 // often than benefits do, and a stale one is prefilled into an app's
 // add-card form — so a page that no longer shows the recorded amount or
 // minimum spend is listed in offer-changes.md for a human to re-read.
@@ -16,7 +16,7 @@
 
 import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
-import { fetchHtml, flatten, renderHtml } from './lib/page.mjs';
+import { fetchHtml, flatten, liveHtml, renderHtml } from './lib/page.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const walk = (d) =>
@@ -62,30 +62,37 @@ function misses(text, want) {
 // offer with JavaScript — so it is rendered in a browser before it counts.
 // Some sites also answer 200 with a placeholder when several requests land
 // together (skypassvisa.com); the render, one at a time, covers that too.
+// The page an offer was read from: the issuer's, unless the issuer's could
+// not be read and the entry names the page that was (`signupBonus.source`).
+const pageOf = (card) => card.signupBonus.source ?? card.url;
+
 async function check(card) {
   const want = expectations(card);
-  const raw = await fetchHtml(card.url);
+  const url = pageOf(card);
+  const raw = await fetchHtml(url);
   if (raw.html && !misses(flatten(raw.html, { scripts: true }), want).length) return {};
-  const dom = await renderHtml(card.url);
+  const dom = await renderHtml(url);
   if (dom.html) {
     const missing = misses(flatten(dom.html), want);
     if (!missing.length) return {};
-    // Amex business pages often come back with the offer block still a
-    // "Loading" placeholder. Give the page real time once more; if the
-    // placeholder is still there the page was not read, which is not the
-    // same as the offer having changed.
-    const slow = await renderHtml(card.url, { slow: true });
-    const text = slow.html ? flatten(slow.html) : '';
-    const still = slow.html ? misses(text, want) : missing;
+    // Amex business pages fill the offer box from their own API after
+    // load; a DOM dump shows "Offer loading" however long it waits. Watch
+    // the live page until the numbers appear. If the placeholder is still
+    // there the page was not read, which is not the same as the offer
+    // having changed. Spend lines that sit behind an "offer details"
+    // overlay (wyndhamrewardscreditcard.com) are opened on the way.
+    const live = await liveHtml(url, { ready: (t) => !misses(t, want).length, click: 'offer details' });
+    const text = live.html ? flatten(live.html) : '';
+    const still = live.html ? misses(text, want) : missing;
     if (!still.length) return {};
-    if (/ Loading /.test(text || flatten(dom.html))) return { why: 'offer block still loading after two renders' };
+    if (/ Loading /.test(text || flatten(dom.html))) return { why: 'offer block still loading in a live render' };
     return { missing: still };
   }
   // No browser, or it failed: only a readable raw page can be judged, and
   // then only after a second, quieter read.
   if (!raw.html) return { why: `${raw.why}; ${dom.why}` };
   await new Promise((r) => setTimeout(r, 5000));
-  const again = await fetchHtml(card.url);
+  const again = await fetchHtml(url);
   if (again.html && !misses(flatten(again.html, { scripts: true }), want).length) return {};
   return { why: `not in the raw HTML; ${dom.why}` };
 }
@@ -117,20 +124,20 @@ const sb = (c) => c.card.signupBonus;
 const report = [
   `${changed.length} welcome offer(s) no longer match the issuer page (${new Date().toISOString().slice(0, 10)}; ${jobs.length} checked, ${unread.length} unreadable).`,
   '',
-  'The recorded number is not on the page any more. Read the page in full, then update `signupBonus` (and its `asOf`) or remove it if there is no fixed public offer. Run `npm run build` and commit the export.',
+  'The recorded number is not on the page any more (the issuer\'s page, or the entry\'s `source` when it has one). Read the page in full, then update `signupBonus` (and its `asOf`) or remove it if there is no fixed public offer. Run `npm run build` and commit the export.',
   '',
   ...changed
     .sort(byFile)
     .map(
       (c) =>
-        `### \`${c.rel}\`\nRecorded ${sb(c).asOf}: ${grouped(sb(c).amount)} after $${grouped(sb(c).spend)} in ${sb(c).days} days. Not found: ${c.missing.join(', ')}.\n${c.card.url}\n`,
+        `### \`${c.rel}\`\nRecorded ${sb(c).asOf}: ${grouped(sb(c).amount)} after $${grouped(sb(c).spend)} in ${sb(c).days} days. Not found: ${c.missing.join(', ')}.\n${pageOf(c.card)}\n`,
     ),
   `## Pages that could not be read (${unread.length})`,
   'Bot protection, a timeout, or a script-drawn page with no browser to render it. Nothing is known about these offers this week.',
   '',
   unread.length
     ? '| File | Problem | URL |\n|---|---|---|\n' +
-      unread.sort(byFile).map((u) => `| \`${u.rel}\` | ${u.why} | ${u.card.url} |`).join('\n')
+      unread.sort(byFile).map((u) => `| \`${u.rel}\` | ${u.why} | ${pageOf(u.card)} |`).join('\n')
     : 'None 🎉',
   '',
 ].join('\n');
