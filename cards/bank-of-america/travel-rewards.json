@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png",
+  "signupBonus": {
+    "amount": 25000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "fecfaab2c32f3edd5d97eafd8f3f19d6"
   ],

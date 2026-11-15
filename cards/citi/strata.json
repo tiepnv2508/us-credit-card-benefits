@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.citi.com/credit-cards/citi-strata-credit-card",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-credit-card/citi-strata-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "cbc737da5cbd44575dec6325bbbd8688"
   ],

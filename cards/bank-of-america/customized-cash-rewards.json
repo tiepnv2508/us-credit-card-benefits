@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
   "imageUrl": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-masthead-container-default-bofa_cshsigcm_v.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 1000,
+    "days": 90,
+    "details": "Online cash rewards bonus.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "f2461735a56702c428c209486e2f9e55"
   ],

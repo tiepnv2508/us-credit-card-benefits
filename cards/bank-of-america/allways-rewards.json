@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragp_sigcm_v_250.png",
+  "signupBonus": {
+    "amount": 30000,
+    "spend": 1500,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",

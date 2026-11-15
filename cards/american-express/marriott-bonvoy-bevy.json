@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
   "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
+  "signupBonus": {
+    "amount": 85000,
+    "spend": 5000,
+    "days": 180,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "653b14a655f4edc9bfc0332e9370e139"
   ],

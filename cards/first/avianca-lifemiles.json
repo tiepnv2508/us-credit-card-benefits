@@ -17,5 +17,11 @@
   "sources": [
     "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard"
   ],
-  "benefits": []
+  "benefits": [],
+  "signupBonus": {
+    "amount": 40000,
+    "spend": 3000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  }
 }

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/spark-cash-plus2.png",
+  "signupBonus": {
+    "amount": 2000,
+    "spend": 30000,
+    "days": 90,
+    "details": "Cash bonus. A further $2,000 bonus is available for more spend in the first year.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "9bd7d14db16dcc106d2eb062b08bf15f"
   ],

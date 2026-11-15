@@ -25,5 +25,12 @@
     "notes": "Unlimited 1.5% on all purchases, no categories or caps. BofA Rewards members earn 10%–75% more cash back on every purchase (relationship bonus by tier); base rates shown.",
     "rates": []
   },
-  "benefits": []
+  "benefits": [],
+  "signupBonus": {
+    "amount": 250,
+    "spend": 1000,
+    "days": 90,
+    "details": "Online cash rewards bonus. Limited-time offer.",
+    "asOf": "2026-11-14"
+  }
 }

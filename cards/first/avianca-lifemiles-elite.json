@@ -62,5 +62,12 @@
       "matchVerified": false,
       "notes": "Via Silver status: 6 upgrades to business class in the Americas per year (subject to availability; not on basic/light fares)."
     }
-  ]
+  ],
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 4500,
+    "days": 90,
+    "details": "Plus 40,000 miles after $25,000 in purchases in the first 365 days.",
+    "asOf": "2026-11-14"
+  }
 }

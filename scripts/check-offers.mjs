@@ -8,17 +8,17 @@
 // the issuer's page in full and update signupBonus (amount, spend, days,
 // asOf) by hand, or remove it if the page shows no fixed public offer.
 //
-// A page that can't be fetched (bot protection on CI IPs, timeout) proves
-// nothing either way; those are listed separately and never flagged.
+// A page that can't be read (bot protection on CI IPs, timeout, no browser
+// to render it) proves nothing either way; those are listed separately and
+// never flagged.
 //
 //   node scripts/check-offers.mjs
 
 import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
+import { fetchHtml, flatten, renderHtml } from './lib/page.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
-// Desktop Safari: several issuers serve the offer only in the desktop page.
-const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15';
 const walk = (d) =>
   readdirSync(d).flatMap((f) => {
     const p = join(d, f);
@@ -48,40 +48,54 @@ export function expectations(card) {
   return { amount, spend: sb.spend > 0 ? forms(sb.spend, true) : null };
 }
 
-// Visible text plus the text inside scripts (many issuers render the offer
-// from embedded JSON), with tags, entities and whitespace flattened.
-const flatten = (html) =>
-  html
-    .replace(/\\u0026/g, '&')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;|&#160;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&#36;/g, '$')
-    .replace(/\s+/g, ' ');
-
 const has = (text, list) => list.some((f) => text.toLowerCase().includes(f.toLowerCase()));
 
-async function page(url) {
-  const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), 30000);
-  try {
-    const res = await fetch(url, {
-      headers: { 'User-Agent': UA, 'Accept-Language': 'en-US' },
-      redirect: 'follow',
-      signal: ctrl.signal,
-    });
-    const body = await res.text();
-    return res.ok ? { text: flatten(body) } : { why: `HTTP ${res.status}` };
-  } catch (e) {
-    return { why: e.name === 'AbortError' ? 'timeout' : `error: ${e.message}` };
-  } finally {
-    clearTimeout(t);
-  }
+function misses(text, want) {
+  const out = [];
+  if (!has(text, want.amount)) out.push(`amount ${want.amount[0]}`);
+  if (want.spend && !has(text, want.spend)) out.push(`spend ${want.spend[0]}`);
+  return out;
 }
 
+// Raw HTML first (scripts included: many issuers embed the offer as JSON).
+// A miss there proves nothing — americanexpress.com and others draw the
+// offer with JavaScript — so it is rendered in a browser before it counts.
+// Some sites also answer 200 with a placeholder when several requests land
+// together (skypassvisa.com); the render, one at a time, covers that too.
+async function check(card) {
+  const want = expectations(card);
+  const raw = await fetchHtml(card.url);
+  if (raw.html && !misses(flatten(raw.html, { scripts: true }), want).length) return {};
+  const dom = await renderHtml(card.url);
+  if (dom.html) {
+    const missing = misses(flatten(dom.html), want);
+    if (!missing.length) return {};
+    // Amex business pages often come back with the offer block still a
+    // "Loading" placeholder. Give the page real time once more; if the
+    // placeholder is still there the page was not read, which is not the
+    // same as the offer having changed.
+    const slow = await renderHtml(card.url, { slow: true });
+    const text = slow.html ? flatten(slow.html) : '';
+    const still = slow.html ? misses(text, want) : missing;
+    if (!still.length) return {};
+    if (/ Loading /.test(text || flatten(dom.html))) return { why: 'offer block still loading after two renders' };
+    return { missing: still };
+  }
+  // No browser, or it failed: only a readable raw page can be judged, and
+  // then only after a second, quieter read.
+  if (!raw.html) return { why: `${raw.why}; ${dom.why}` };
+  await new Promise((r) => setTimeout(r, 5000));
+  const again = await fetchHtml(card.url);
+  if (again.html && !misses(flatten(again.html, { scripts: true }), want).length) return {};
+  return { why: `not in the raw HTML; ${dom.why}` };
+}
+
+const only = process.argv[2];
 const jobs = [];
 for (const file of walk(join(ROOT, 'cards'))) {
   const card = JSON.parse(readFileSync(file, 'utf8'));
+  // `node scripts/check-offers.mjs citi/` checks only the files whose path has that text.
+  if (only && !relative(ROOT, file).includes(only)) continue;
   if (card.signupBonus && card.url && !card.discontinued) jobs.push({ rel: relative(ROOT, file), card });
 }
 
@@ -91,23 +105,9 @@ const queue = [...jobs];
 await Promise.all(
   Array.from({ length: 6 }, async () => {
     for (let j; (j = queue.shift()); ) {
-      const want = expectations(j.card);
-      let got;
-      let missing = [];
-      // Some sites answer 200 with a placeholder page when several requests
-      // arrive together (skypassvisa.com), so a miss is re-read once, alone
-      // in time, before it is believed.
-      for (let attempt = 0; attempt < 2; attempt++) {
-        if (attempt) await new Promise((r) => setTimeout(r, 5000));
-        got = await page(j.card.url);
-        if (got.why) continue;
-        missing = [];
-        if (!has(got.text, want.amount)) missing.push(`amount ${want.amount[0]}`);
-        if (want.spend && !has(got.text, want.spend)) missing.push(`spend ${want.spend[0]}`);
-        if (!missing.length) break;
-      }
-      if (got.why) unread.push({ ...j, why: got.why });
-      else if (missing.length) changed.push({ ...j, missing });
+      const r = await check(j.card);
+      if (r.why) unread.push({ ...j, why: r.why });
+      else if (r.missing?.length) changed.push({ ...j, missing: r.missing });
     }
   }),
 );
@@ -126,7 +126,7 @@ const report = [
         `### \`${c.rel}\`\nRecorded ${sb(c).asOf}: ${grouped(sb(c).amount)} after $${grouped(sb(c).spend)} in ${sb(c).days} days. Not found: ${c.missing.join(', ')}.\n${c.card.url}\n`,
     ),
   `## Pages that could not be read (${unread.length})`,
-  'Bot protection or a timeout on CI. Nothing is known about these offers this week.',
+  'Bot protection, a timeout, or a script-drawn page with no browser to render it. Nothing is known about these offers this week.',
   '',
   unread.length
     ? '| File | Problem | URL |\n|---|---|---|\n' +

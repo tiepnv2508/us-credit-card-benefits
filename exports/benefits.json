@@ -542,6 +542,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 200,
+        "spend": 2000,
+        "days": 180,
+        "details": "Statement credit.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "6980c320c341292b63273e4362601aa8"
       ],
@@ -640,6 +647,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000264_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 300,
+        "spend": 3000,
+        "days": 180,
+        "details": "Statement credit.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "04abf9273e03fbe626fe80a9ffd53523"
       ],
@@ -1079,6 +1093,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-platinum.png",
+      "signupBonus": {
+        "amount": 300000,
+        "spend": 20000,
+        "days": 90,
+        "details": "As high as 300,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "656a6a4296d40de4c62cc3ec888e5018"
       ],
@@ -1509,6 +1530,12 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000386_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 10000,
+        "spend": 1000,
+        "days": 180,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "90436ebe63417596fbc6cb5b7e5a2e8c"
       ],
@@ -1551,6 +1578,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000385_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 80000,
+        "spend": 2000,
+        "days": 180,
+        "details": "As high as 80,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "99d4ec3c5bcd51b70b83b4b792af3ef6"
       ],
@@ -1794,6 +1828,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000384_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 90000,
+        "spend": 3000,
+        "days": 180,
+        "details": "As high as 90,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "bdf4ae17ff6808592f785fff3ae81a2a"
       ],
@@ -1961,6 +2002,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/platinum-delta-skymiles-business.png",
+      "signupBonus": {
+        "amount": 100000,
+        "spend": 10000,
+        "days": 180,
+        "details": "As high as 100,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "1e9c3dae029612a7a40adf6144bf43d4"
       ],
@@ -2158,6 +2206,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000383_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 125000,
+        "spend": 5000,
+        "days": 180,
+        "details": "As high as 125,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "2a3949c2232cf6646a59531728264a5c"
       ],
@@ -2336,6 +2391,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/delta-reserve-business.png",
+      "signupBonus": {
+        "amount": 125000,
+        "spend": 15000,
+        "days": 180,
+        "details": "As high as 125,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "a8032dfcc9bc6af82eb1a0a487e710b5"
       ],
@@ -2576,6 +2638,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 100000,
+        "spend": 8000,
+        "days": 180,
+        "details": "As high as 100,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "cafe43d37256bec116dff4be6cced2cf"
       ],
@@ -2849,6 +2918,13 @@
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
+      "signupBonus": {
+        "amount": 70000,
+        "spend": 2000,
+        "days": 180,
+        "details": "Plus a Free Night Reward. Limited-time offer, ends 1/13/27.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "0710239dc6fbd92077bce7118572e217"
       ],
@@ -2919,6 +2995,13 @@
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-aspire.png",
+      "signupBonus": {
+        "amount": 200000,
+        "spend": 6000,
+        "days": 180,
+        "details": "Limited-time offer, ends 1/13/27.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "59c1e4c423d078c91e9b7c51d72e893d"
       ],
@@ -3115,6 +3198,13 @@
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/hilton-honors.png",
+      "signupBonus": {
+        "amount": 150000,
+        "spend": 8000,
+        "days": 180,
+        "details": "Plus a Free Night Reward. Limited-time offer, ends 1/13/27.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "434df114291a974c876d58cf79158376"
       ],
@@ -3210,6 +3300,13 @@
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png",
+      "signupBonus": {
+        "amount": 130000,
+        "spend": 3000,
+        "days": 180,
+        "details": "Plus a Free Night Reward. Limited-time offer, ends 1/13/27.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "f6c6aa50b533b758df7be5151d805571"
       ],
@@ -3357,6 +3454,12 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 85000,
+        "spend": 5000,
+        "days": 180,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "653b14a655f4edc9bfc0332e9370e139"
       ],
@@ -3463,6 +3566,12 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 100000,
+        "spend": 6000,
+        "days": 180,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "4d2115812f09d194440ef99b1a5210cd"
       ],
@@ -3747,6 +3856,13 @@
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png",
+      "signupBonus": {
+        "amount": 175000,
+        "spend": 12000,
+        "days": 180,
+        "details": "As high as 175,000; your offer may be lower.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "ec1872dfd8a65491a33bae2da4dd487f"
       ],
@@ -4875,6 +4991,13 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_cmsig_v-250.png",
+      "signupBonus": {
+        "amount": 50000,
+        "spend": 2000,
+        "days": 90,
+        "details": "Plus 100 Experience Points (XP).",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "f2d769efdbe2b9d8734787bc24297be6"
       ],
@@ -4932,6 +5055,12 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragp_sigcm_v_250.png",
+      "signupBonus": {
+        "amount": 30000,
+        "spend": 1500,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
@@ -5334,6 +5463,13 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
       "imageUrl": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-masthead-container-default-bofa_cshsigcm_v.png",
+      "signupBonus": {
+        "amount": 200,
+        "spend": 1000,
+        "days": 90,
+        "details": "Online cash rewards bonus.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "f2461735a56702c428c209486e2f9e55"
       ],
@@ -5417,6 +5553,12 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/radz_wldcm_mc_250.png",
+      "signupBonus": {
+        "amount": 20000,
+        "spend": 1000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
@@ -5464,6 +5606,12 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8CAL_prmsigcm_v_250_158.png",
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 4000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "eb8bc1a6f86dc471aa0deeca619fbf59"
       ],
@@ -5544,6 +5692,12 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
+      "signupBonus": {
+        "amount": 75000,
+        "spend": 5000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "20594480e9f5656485a12e13389f60c7"
       ],
@@ -5678,7 +5832,13 @@
           "matchVerified": false,
           "notes": "$100 cruise discount each year after $10,000 in purchases in the cardmember year."
         }
-      ]
+      ],
+      "signupBonus": {
+        "amount": 30000,
+        "spend": 1500,
+        "days": 90,
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "boa-royal-one-plus",
@@ -5734,7 +5894,13 @@
           "matchVerified": false,
           "notes": "Up to $120 in statement credits toward the Global Entry or TSA PreCheck application fee once every 4 years."
         }
-      ]
+      ],
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 2500,
+        "days": 90,
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "boa-susan-g-komen-customized-cash-rewards",
@@ -5748,6 +5914,13 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/qvys_sigcm_v_250.png",
+      "signupBonus": {
+        "amount": 200,
+        "spend": 1000,
+        "days": 90,
+        "details": "Online cash rewards bonus.",
+        "asOf": "2026-11-14"
+      },
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
@@ -5767,6 +5940,12 @@
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png",
+      "signupBonus": {
+        "amount": 25000,
+        "spend": 1000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "fecfaab2c32f3edd5d97eafd8f3f19d6"
       ],
@@ -5817,7 +5996,14 @@
         "notes": "Unlimited 1.5% on all purchases, no categories or caps. BofA Rewards members earn 10%–75% more cash back on every purchase (relationship bonus by tier); base rates shown.",
         "rates": []
       },
-      "benefits": []
+      "benefits": [],
+      "signupBonus": {
+        "amount": 250,
+        "spend": 1000,
+        "days": 90,
+        "details": "Online cash rewards bonus. Limited-time offer.",
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "barclays-aadvantage-aviator-red",
@@ -7644,6 +7830,13 @@
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
       "imageUrl": "https://ecm.capitalone.com/WCM/card/products/spark-cash-plus2.png",
+      "signupBonus": {
+        "amount": 2000,
+        "spend": 30000,
+        "days": 90,
+        "details": "Cash bonus. A further $2,000 bonus is available for more spend in the first year.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "9bd7d14db16dcc106d2eb062b08bf15f"
       ],
@@ -7902,6 +8095,12 @@
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/venture-x/",
       "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
+      "signupBonus": {
+        "amount": 75000,
+        "spend": 4000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "9aa036266b8cc7e7512a630efdecae0b"
       ],
@@ -17240,6 +17439,12 @@
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-credit-card",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-credit-card/citi-strata-credit-card_306x192.webp",
+      "signupBonus": {
+        "amount": 20000,
+        "spend": 1000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "cbc737da5cbd44575dec6325bbbd8688"
       ],
@@ -17327,6 +17532,12 @@
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-elite-credit-card/citi-strata-elite-credit-card_306x192.webp",
+      "signupBonus": {
+        "amount": 75000,
+        "spend": 6000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "19c94f90056968ebde2882f7bb0f1010"
       ],
@@ -17505,6 +17716,12 @@
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-premier-credit-card/citi-strata-premier-credit-card_306x192.webp",
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 4000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "d7e2e5b5e595ca6510c101349c914513"
       ],
@@ -17780,6 +17997,13 @@
       "discontinued": false,
       "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
       "imageUrl": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20daily%205050.png",
+      "signupBonus": {
+        "amount": 100,
+        "spend": 1000,
+        "days": 90,
+        "details": "Statement credit.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "eb573cdc20d07fc2d60e8528f73cafb0"
       ],
@@ -17822,6 +18046,13 @@
       "discontinued": false,
       "url": "https://www.discover.com/credit-cards/",
       "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-cashit-with-shadow.png",
+      "signupBonus": {
+        "amount": 200,
+        "spend": 500,
+        "days": 90,
+        "details": "Statement credit.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "dae75a5609dea8f39f750f4b225d2c5c"
       ],
@@ -18067,7 +18298,13 @@
       "sources": [
         "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard"
       ],
-      "benefits": []
+      "benefits": [],
+      "signupBonus": {
+        "amount": 40000,
+        "spend": 3000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "first-avianca-lifemiles-elite",
@@ -18132,7 +18369,14 @@
           "matchVerified": false,
           "notes": "Via Silver status: 6 upgrades to business class in the Americas per year (subject to availability; not on basic/light fares)."
         }
-      ]
+      ],
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 4500,
+        "days": 90,
+        "details": "Plus 40,000 miles after $25,000 in purchases in the first 365 days.",
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "first-cardless-qatar-infinite",
@@ -18286,6 +18530,13 @@
       "discontinued": false,
       "url": "https://www.amtrak.com/Apply",
       "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-white-cardart.png",
+      "signupBonus": {
+        "amount": 15000,
+        "spend": 1000,
+        "days": 90,
+        "details": "Within the first 3 billing cycles. Plus 5,000 points for adding an authorized user.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "1f13c36d3b8218b1a22d5ab050d30b09"
       ],
@@ -18307,6 +18558,13 @@
       "discontinued": false,
       "url": "https://www.amtrak.com/Apply",
       "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-front-facing-cardart.png",
+      "signupBonus": {
+        "amount": 25000,
+        "spend": 1500,
+        "days": 90,
+        "details": "Within the first 3 billing cycles. Plus 5,000 points for adding an authorized user. Apply by 1/5/27.",
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "4a2f48392c94bc6b0ef9b6d30153bddc"
       ],
@@ -18537,7 +18795,13 @@
           "matchVerified": false,
           "notes": "Complimentary 12-month Priority Pass Select membership ($99 value) for one cardholder on the account, auto-renewed yearly while the card is eligible. Lounge visits cost $35 per person (member and guest)."
         }
-      ]
+      ],
+      "signupBonus": {
+        "amount": 50000,
+        "spend": 3000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "penfed-platinum-rewards",
@@ -18577,7 +18841,14 @@
       "sources": [
         "https://www.penfed.org/credit-cards/power-cash-rewards-visa"
       ],
-      "benefits": []
+      "benefits": [],
+      "signupBonus": {
+        "amount": 100,
+        "spend": 1500,
+        "days": 90,
+        "details": "Statement credit.",
+        "asOf": "2026-11-14"
+      }
     },
     {
       "id": "pnc-cash-rewards-visa-signature-business",
@@ -18710,6 +18981,12 @@
       "discontinued": false,
       "url": "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
       "imageUrl": "https://images.ctfassets.net/ubrcxzi8y7m2/6K9D8BhRWWXG9KMYDEsJ5i/810e5253bc00a7155cd709799003703f/img_creditCard.png",
+      "signupBonus": {
+        "amount": 60000,
+        "spend": 4000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "06b77b791c904e42695dd12747e89cd8"
       ],
@@ -19718,6 +19995,12 @@
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
       "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/spv-nav-card.png",
+      "signupBonus": {
+        "amount": 10000,
+        "spend": 1000,
+        "days": 90,
+        "asOf": "2026-11-14"
+      },
       "legacyIds": [
         "90d9bd31d33bc6cfbdb1eb0962cbce57"
       ],

@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
   "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 2000,
+    "days": 180,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "6980c320c341292b63273e4362601aa8"
   ],

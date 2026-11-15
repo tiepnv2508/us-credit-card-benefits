@@ -11,6 +11,13 @@
   "discontinued": false,
   "url": "https://www.discover.com/credit-cards/",
   "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-cashit-with-shadow.png",
+  "signupBonus": {
+    "amount": 200,
+    "spend": 500,
+    "days": 90,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "dae75a5609dea8f39f750f4b225d2c5c"
   ],

@@ -17,5 +17,12 @@
   "sources": [
     "https://www.penfed.org/credit-cards/power-cash-rewards-visa"
   ],
-  "benefits": []
+  "benefits": [],
+  "signupBonus": {
+    "amount": 100,
+    "spend": 1500,
+    "days": 90,
+    "details": "Statement credit.",
+    "asOf": "2026-11-14"
+  }
 }

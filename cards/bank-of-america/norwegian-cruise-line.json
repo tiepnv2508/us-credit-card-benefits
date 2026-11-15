@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/radz_wldcm_mc_250.png",
+  "signupBonus": {
+    "amount": 20000,
+    "spend": 1000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",

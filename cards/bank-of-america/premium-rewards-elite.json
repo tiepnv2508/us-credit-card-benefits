@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 5000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "20594480e9f5656485a12e13389f60c7"
   ],

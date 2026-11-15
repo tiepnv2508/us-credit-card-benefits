@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.capitalone.com/credit-cards/venture-x/",
   "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
+  "signupBonus": {
+    "amount": 75000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "9aa036266b8cc7e7512a630efdecae0b"
   ],

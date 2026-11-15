@@ -11,6 +11,12 @@
   "discontinued": false,
   "url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
   "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-premier-credit-card/citi-strata-premier-credit-card_306x192.webp",
+  "signupBonus": {
+    "amount": 60000,
+    "spend": 4000,
+    "days": 90,
+    "asOf": "2026-11-14"
+  },
   "legacyIds": [
     "d7e2e5b5e595ca6510c101349c914513"
   ],
